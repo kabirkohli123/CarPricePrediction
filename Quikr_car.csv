@@ -1,0 +1,1033 @@
+,Name,Label,Location,Price,Kms_driven,Fuel_type,Owner,Year,Company
+0,Ford Figo Duratec Petrol EXI 1.2 - 2015,PLATINUM,Bangalore,"₹3,80,000","35,056 kms ", Petrol,, 2015,Ford
+1,Maruti Suzuki Wagon R VXI BS IV - 2016,PLATINUM,Bangalore,"₹4,65,000","44,000 kms ", Petrol,, 2016,Maruti
+2,Hyundai Creta 1.6 SX PLUS AUTO PETROL - 2018,PLATINUM,Bangalore,"₹13,50,000","42,917 kms ", Petrol,, 2018,Hyundai
+3,Hyundai Venue - 2019,PLATINUM,Chennai,"₹10,19,699","16,112 kms ", Petrol , 2nd Owner, 2019,Hyundai
+4,Honda Jazz - 2017,PLATINUM,Pune,"₹7,13,499","30,988 kms ", Petrol , 2nd Owner, 2017,Honda
+5,Hyundai i20 - 2013,PLATINUM,Pune,"₹3,91,099","69,163 kms ", Diesel , 2nd Owner, 2013,Hyundai
+6,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2015,PLATINUM,Pune,"₹4,74,299","42,859 kms ", Petrol , 2nd Owner, 2015,Maruti
+7,Toyota Corolla Altis VL AT - 2017,PLATINUM,Pune,"₹12,52,999","34,919 kms ", Petrol , 1st Owner, 2017,Toyota
+8,Honda Amaze - 2013,PLATINUM,Pune,"₹3,93,699","44,940 kms ", Petrol,, 2013,Honda
+9,Hyundai Elite i20 Asta 1.2 - 2017,PLATINUM,Pune,"₹7,30,899","13,687 kms ", Petrol , 1st Owner, 2017,Hyundai
+10,Maruti Suzuki Alto 800 Vxi O  - 2018,PLATINUM,Pune,"₹3,43,099","29,848 kms ", Petrol , 2nd Owner, 2018,Maruti
+11,Honda Jazz - 2018,PLATINUM,Pune,"₹7,07,599","21,426 kms ", Petrol , 2nd Owner, 2018,Honda
+12,Maruti Suzuki Baleno - 2016,PLATINUM,Pune,"₹6,88,899","68,177 kms ", Diesel , 2nd Owner, 2016,Maruti
+13,Jeep Compass - 2017,PLATINUM,Pune,"₹14,21,599","70,650 kms ", Diesel , 1st Owner, 2017,Jeep
+14,Maruti Suzuki Alto K10 Vxi O AMT - 2017,PLATINUM,Pune,"₹3,99,999","25,730 kms ", Petrol , 2nd Owner, 2017,Maruti
+15,Kia Seltos - 2019,PLATINUM,Pune,"₹14,73,299","47,096 kms ", Petrol , 2nd Owner, 2019,Kia
+16,Toyota Innova 2.5 VX BS III 7 STR - 2012,GOLD,Bangalore,"₹10,25,000","1,31,000 kms ", Diesel,, 2012,Toyota
+17,Hyundai Elite i20 ASTA 1.2 O  - 2016,GOLD,Bangalore,"₹7,35,000","26,000 kms ", Petrol,, 2016,Hyundai
+18,Hyundai Creta 1.6 CRDI SX PLUS AUTO - 2019,GOLD,Chennai,"₹6,00,000","58,460 kms ", Diesel , 1st Owner, 2019,Hyundai
+19,Kia Seltos - 2020,GOLD,Chennai,"₹8,00,000","48,000 kms ", Petrol , 1st Owner, 2020,Kia
+20,Maruti Suzuki Ciaz DELTA 1.4 VVT - 2017,GOLD,Hyderabad,"₹7,00,000","26,600 kms ", Petrol,, 2017,Maruti
+21,Ford EcoSport Titanium 1.5L Ti VCT - 2019,GOLD,Faridabad,"₹8,20,000","36,000 kms ", Petrol,, 2019,Ford
+22,Tata Nano Twist XT - 2014,GOLD,Chennai,"₹1,95,000","39,500 kms ", Petrol,, 2014,Tata
+23,Audi Q7 3.0 TDI quattro Premium Plus - 2011,GOLD,Chennai,"₹18,50,000","76,000 kms ", Diesel,, 2011,Audi
+24,Ford Ecosport - 2017,PLATINUM,Pune,"₹8,07,499","23,698 kms ", Petrol , 1st Owner, 2017,Ford
+25,Hyundai Grand i10 - 2016,PLATINUM,Pune,"₹5,22,999","37,860 kms ", Petrol , 2nd Owner, 2016,Hyundai
+26,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2015,PLATINUM,Pune,"₹4,74,299","91,830 kms ", Petrol , 2nd Owner, 2015,Maruti
+27,Hyundai Elite i20 - 2019,PLATINUM,Pune,"₹7,40,899","31,172 kms ", Petrol , 2nd Owner, 2019,Hyundai
+28,Toyota Yaris - 2021,PLATINUM,Pune,"₹11,41,999","3,243 kms ", Petrol , 2nd Owner, 2021,Toyota
+29,Tata Nexon - 2020,PLATINUM,Pune,"₹9,71,299","9,616 kms ", Petrol , 2nd Owner, 2020,Tata
+30,Maruti Suzuki Baleno - 2017,PLATINUM,Pune,"₹6,40,999","30,249 kms ", Petrol , 2nd Owner, 2017,Maruti
+31,Maruti Suzuki Baleno - 2019,PLATINUM,Pune,"₹6,76,199","60,875 kms ", Petrol , 2nd Owner, 2019,Maruti
+32,Maruti Suzuki Swift Vxi - 2017,PLATINUM,Chennai,"₹5,62,399","25,740 kms ", Petrol , 2nd Owner, 2017,Maruti
+33,Ford Ecosport 1.0 Ecoboost Titanium Optional - 2014,PLATINUM,Pune,"₹5,80,899","38,587 kms ", Petrol , 2nd Owner, 2014,Ford
+34,Renault Triber - 2021,PLATINUM,Pune,"₹7,70,999","3,108 kms ", Petrol , 2nd Owner, 2021,Renault
+35,Honda Amaze - 2016,PLATINUM,Pune,"₹5,31,399","35,353 kms ", Petrol , 2nd Owner, 2016,Honda
+36,Hyundai EON Magna Plus - 2017,PLATINUM,Pune,"₹3,67,299","34,748 kms ", Petrol , 2nd Owner, 2017,Hyundai
+37,Maruti Suzuki Alto Lxi - 2020,PLATINUM,Pune,"₹4,12,199","2,359 kms ", Petrol , 2nd Owner, 2020,Maruti
+38,Hyundai Creta S CRDi - 2020,PLATINUM,Pune,"₹14,60,099","17,814 kms ", Diesel , 2nd Owner, 2020,Hyundai
+39,Maruti Suzuki Baleno - 2018,PLATINUM,Pune,"₹6,18,699","68,934 kms ", Petrol , 2nd Owner, 2018,Maruti
+40,Hyundai i20 Asta 1.2 - 2014,GOLD,Bangalore,"₹4,85,000","72,600 kms ", Petrol , 2nd Owner, 2014,Hyundai
+41,BMW 3 Series 320d Corporate Edition - 2010,GOLD,Chennai,"₹8,90,000","81,000 kms ", Diesel,, 2010,BMW
+42,Nissan Micra XV Diesel - 2012,GOLD,Chennai,"₹2,45,000","80,000 kms ", Diesel , 1st Owner, 2012,Nissan
+43,Toyota Glanza V CVT - 2020,GOLD,Bangalore,"₹9,45,000","12,000 kms ", Petrol,, 2020,Toyota
+44,Maruti Suzuki Swift LXi 1.2 BS IV - 2016,GOLD,Bangalore,"₹5,90,000","6,000 kms ", Petrol,, 2016,Maruti
+45,Honda Brio S MT - 2017,GOLD,Bangalore,"₹4,95,000","56,000 kms ", Petrol,, 2017,Honda
+46,Maruti Suzuki Wagon R VXi BS III - 2017,GOLD,Bangalore,"₹4,75,000","56,000 kms ", Petrol,, 2017,Maruti
+47,MG Motors Hector - 2020,GOLD,Chennai,"₹12,00,000","36,000 kms ", Diesel , 1st Owner, 2020,MG
+48,Maruti Suzuki Wagon R 1.0 Vxi - 2017,PLATINUM,Pune,"₹4,90,199","15,840 kms ", Petrol , 2nd Owner, 2017,Maruti
+49,Maruti Suzuki Baleno - 2018,PLATINUM,Pune,"₹6,18,699","68,934 kms ", Petrol , 2nd Owner, 2018,Maruti
+50,Maruti Suzuki Vitara Brezza Zdi Plus - 2017,PLATINUM,Pune,"₹9,20,999","32,482 kms ", Diesel , 2nd Owner, 2017,Maruti
+51,Honda City - 2014,PLATINUM,Pune,"₹5,54,399","1,13,779 kms ", Diesel , 2nd Owner, 2014,Honda
+52,Maruti Suzuki Wagon R 1.0 Lxi - 2017,PLATINUM,Pune,"₹4,08,999","26,150 kms ", Petrol , 2nd Owner, 2017,Maruti
+53,Mahindra XUV 500 - 2018,PLATINUM,Pune,"₹12,48,299","34,555 kms ", Diesel , 2nd Owner, 2018,Mahindra
+54,Maruti Suzuki Baleno - 2018,PLATINUM,Pune,"₹6,36,099","30,880 kms ", Petrol , 1st Owner, 2018,Maruti
+55,Hyundai i20 Asta 1.2 - 2013,PLATINUM,Pune,"₹4,52,699","70,423 kms ", Petrol , 1st Owner, 2013,Hyundai
+56,Hyundai Elite i20 - 2018,PLATINUM,Pune,"₹7,04,399","30,232 kms ", Diesel , 2nd Owner, 2018,Hyundai
+57,Volkswagen Polo - 2016,PLATINUM,Pune,"₹5,53,599","50,077 kms ", Petrol , 2nd Owner, 2016,Volkswagen
+58,Ford Ecosport - 2018,PLATINUM,Pune,"₹9,99,599","18,482 kms ", Diesel , 2nd Owner, 2018,Ford
+59,Maruti Suzuki Baleno - 2018,PLATINUM,Pune,"₹6,84,699","10,246 kms ", Petrol , 2nd Owner, 2018,Maruti
+60,Maruti Suzuki Baleno - 2016,PLATINUM,Pune,"₹6,20,399","25,021 kms ", Petrol , 2nd Owner, 2016,Maruti
+61,Hyundai Elite i20 Asta 1.2 - 2014,PLATINUM,Pune,"₹5,49,899","70,646 kms ", Petrol , 2nd Owner, 2014,Hyundai
+62,Maruti Suzuki Vitara Brezza - 2018,PLATINUM,Pune,"₹8,12,899","45,490 kms ", Diesel , 2nd Owner, 2018,Maruti
+63,Ford Ecosport - 2016,PLATINUM,Chennai,"₹6,56,699","53,306 kms ", Diesel , 2nd Owner, 2016,Ford
+64,Hyundai Creta 1.6 CRDI SX PLUS AUTO - 2019,GOLD,Chennai,"₹7,25,000","58,460 kms ", Diesel , 1st Owner, 2019,Hyundai
+65,Hyundai Venue - 2019,GOLD,Chennai,"₹6,00,000","29,000 kms ", Diesel , 1st Owner, 2019,Hyundai
+66,Volvo XC90 D5 AWD - 2016,GOLD,Chennai,"₹37,00,000","1,10,000 kms ", Diesel,, 2016,Volvo
+67,Mahindra XUV 500 W8 - 2013,GOLD,Chennai,"₹7,35,000","95,000 kms ", Diesel,, 2013,Mahindra
+68,Toyota Fortuner 3.0 4x2 MT - 2012,GOLD,Chennai,"₹13,50,000","1,70,000 kms ", Diesel,, 2012,Toyota
+69,Honda Jazz VX MT - 2013,GOLD,Pune,"₹3,65,000","80,000 kms ", Petrol,, 2013,Honda
+70,Hyundai i10 Asta 1.2 Kappa2 - 2011,GOLD,Pune,"₹2,80,000","58,000 kms ", Petrol,, 2011,Hyundai
+71,Tata Nexon XM Diesel - 2019,GOLD,Pune,"₹8,40,000","22,000 kms ", Diesel,, 2019,Tata
+72,Hyundai Creta 1.6 SX Plus Petrol - 2017,PLATINUM,Pune,"₹8,18,599","69,215 kms ", Petrol , 1st Owner, 2017,Hyundai
+73,Hyundai Verna 1.6 SX VTVT - 2018,PLATINUM,Pune,"₹8,62,399","33,340 kms ", Petrol , 1st Owner, 2018,Hyundai
+74,Renault Triber - 2019,PLATINUM,Pune,"₹6,73,599","9,783 kms ", Petrol , 2nd Owner, 2019,Renault
+75,Hyundai Santro Sportz 1.1L - 2018,PLATINUM,Pune,"₹5,28,899","15,110 kms ", Petrol , 2nd Owner, 2018,Hyundai
+76,Maruti Suzuki S Presso VXi Plus - 2021,PLATINUM,Pune,"₹5,27,999","3,399 kms ", Petrol , 2nd Owner, 2021,Maruti
+77,Mahindra XUV 500 - 2013,PLATINUM,Pune,"₹7,91,699","89,310 kms ", Diesel , 1st Owner, 2013,Mahindra
+78,Maruti Suzuki Wagon R 1.0 Vxi - 2015,PLATINUM,Chennai,"₹3,92,999","53,148 kms ", Petrol , 1st Owner, 2015,Maruti
+79,Honda City VX CVT Petrol - 2015,PLATINUM,Pune,"₹6,90,199","42,020 kms ", Petrol , 1st Owner, 2015,Honda
+80,Maruti Suzuki Swift Dzire Vdi BS IV - 2013,PLATINUM,Pune,"₹4,74,699","74,594 kms ", Diesel , 2nd Owner, 2013,Maruti
+81,MG Motors Hector - 2021,PLATINUM,Pune,"₹20,19,899","6,110 kms ", Petrol , 2nd Owner, 2021,MG
+82,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2017,PLATINUM,Pune,"₹5,62,299","24,346 kms ", Petrol , 2nd Owner, 2017,Hyundai
+83,Jeep Compass - 2017,PLATINUM,Pune,"₹14,00,999","65,668 kms ", Diesel , 1st Owner, 2017,Jeep
+84,Renault Kwid - 2018,PLATINUM,Pune,"₹4,47,599","48,644 kms ", Petrol , 2nd Owner, 2018,Renault
+85,Toyota Innova Crysta 2.4 VX 7 STR - 2018,PLATINUM,Pune,"₹18,14,599","36,877 kms ", Diesel , 2nd Owner, 2018,Toyota
+86,Tata Nexon - 2018,PLATINUM,Pune,"₹9,20,399","79,673 kms ", Diesel , 2nd Owner, 2018,Tata
+87,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2014,PLATINUM,Pune,"₹4,47,599","54,352 kms ", Petrol , 2nd Owner, 2014,Maruti
+88,Tata Zest XMS Diesel - 2016,GOLD,Pune,"₹3,90,000","64,000 kms ", Diesel,, 2016,Tata
+89,Ford Freestyle TITANIUM 1.2 TI VCT MT - 2018,GOLD,Kanchipuram,"₹6,50,000","54,000 kms ", Diesel,, 2018,Ford
+90,Maruti Suzuki Swift ZXI ABS - 2017,GOLD,Chennai,"₹5,75,000","40,000 kms ", Petrol,, 2017,Maruti
+91,Mahindra Xylo - 2015,GOLD,Kozhikode,"₹5,25,000","1,07,000 kms ", Diesel , 1st Owner, 2015,Mahindra
+92,Mahindra Xylo - 2015,GOLD,Kozhikode,"₹5,25,000","1,07,000 kms ", Diesel , 2nd Owner, 2015,Mahindra
+93,BMW 5 Series 530d - 2011,GOLD,Kolkata,"₹10,00,000","38,000 kms ", Diesel,, 2011,BMW
+94,Hyundai i20 Magna 1.2 - 2010,GOLD,Bangalore,"₹3,25,000","86,000 kms ", Petrol,, 2010,Hyundai
+95,Jeep Compass Limited 2.0 Diesel 4x4 - 2021,GOLD,Mumbai,"₹30,00,000","10,000 kms ", Diesel,, 2021,Jeep
+96,Maruti Suzuki Alto K10 Vxi - 2017,PLATINUM,Pune,"₹3,43,299","48,658 kms ", Petrol , 2nd Owner, 2017,Maruti
+97,MG Motors Hector - 2020,PLATINUM,Pune,"₹17,11,499","11,998 kms ", Petrol , 2nd Owner, 2020,MG
+98,Maruti Suzuki Vitara Brezza Zdi Plus - 2018,PLATINUM,Pune,"₹9,18,799","32,513 kms ", Diesel , 2nd Owner, 2018,Maruti
+99,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2016,PLATINUM,Pune,"₹5,26,399","21,372 kms ", Petrol , 2nd Owner, 2016,Hyundai
+100,Volkswagen Vento - 2017,PLATINUM,Pune,"₹8,81,099","34,178 kms ", Petrol , 1st Owner, 2017,Volkswagen
+101,Kia Seltos - 2019,PLATINUM,Pune,"₹17,64,199","20,547 kms ", Petrol , 2nd Owner, 2019,Kia
+102,Maruti Suzuki Baleno - 2016,PLATINUM,Pune,"₹6,39,199","34,731 kms ", Petrol , 2nd Owner, 2016,Maruti
+103,Hyundai Grand i10 - 2016,PLATINUM,Pune,"₹5,22,999","30,536 kms ", Petrol , 1st Owner, 2016,Hyundai
+104,MG Motors Hector Sharp 2.0 Diesel - 2019,PLATINUM,Bangalore,"₹19,17,599","10,205 kms ", Diesel , 2nd Owner, 2019,MG
+105,Maruti Suzuki Wagon R 1.0 Vxi - 2017,PLATINUM,Pune,"₹4,66,599","25,483 kms ", Petrol , 2nd Owner, 2017,Maruti
+106,Toyota Corolla Altis VL AT - 2017,PLATINUM,Pune,"₹13,97,699","39,113 kms ", Petrol , 2nd Owner, 2017,Toyota
+107,Maruti Suzuki Ignis - 2017,PLATINUM,Pune,"₹5,04,399","43,152 kms ", Petrol , 2nd Owner, 2017,Maruti
+108,MG Motors Hector - 2020,PLATINUM,Pune,"₹19,20,399","5,325 kms ", Petrol , 2nd Owner, 2020,MG
+109,Ford Ecosport - 2018,PLATINUM,Pune,"₹9,17,599","44,705 kms ", Petrol , 2nd Owner, 2018,Ford
+110,Toyota Etios - 2011,PLATINUM,Pune,"₹3,19,099","70,022 kms ", Petrol , 2nd Owner, 2011,Toyota
+111,Maruti Suzuki Celerio Vxi O AMT - 2017,PLATINUM,Pune,"₹4,84,399","47,435 kms ", Petrol , 2nd Owner, 2017,Maruti
+112,Volkswagen Polo HIGHLINE1.2L PETROL - 2010,GOLD,Chennai,"₹2,90,000","89,000 kms ", Petrol,, 2010,Volkswagen
+113,Mahindra Thar DI 4WD - 2021,GOLD,Chennai,"₹17,90,000","9,826 kms ", Petrol,, 2021,Mahindra
+114,Ford EcoSport Trend 1.5 Ti VCT - 2017,GOLD,Chennai,"₹6,50,000","83,000 kms ", Diesel,, 2017,Ford
+115,Honda City 1.5 S Elegance - 2001,GOLD,Lucknow,"₹73,000","1,95,000 kms ", Petrol , 2nd Owner, 2001,Honda
+116,Toyota Innova Crysta 2.4 ZX 7 STR - 2019,GOLD,Chennai,"₹22,00,000","35,000 kms ", Diesel,, 2019,Toyota
+117,Hyundai Verna 1.6 SX VTVT O AT - 2022,GOLD,Coimbatore,"₹15,50,000","13,000 kms ", Petrol , 1st Owner, 2022,Hyundai
+118,Mahindra e2o T2 - 2016,GOLD,Bangalore,"₹4,20,000","46,000 kms ", Electric , 1st Owner, 2016,Mahindra
+119,Toyota Fortuner 4x4 MT TRD Sportivo - 2015,GOLD,Kolkata,"₹15,95,000","72,000 kms ", Diesel , 1st Owner, 2015,Toyota
+120,Hyundai Xcent - 2016,PLATINUM,Pune,"₹5,73,499","29,026 kms ", Petrol , 2nd Owner, 2016,Hyundai
+121,Hyundai Creta 1.6 SX Plus Petrol - 2015,PLATINUM,Pune,"₹8,79,199","59,258 kms ", Petrol , 2nd Owner, 2015,Hyundai
+122,Mahindra XUV 500 - 2014,PLATINUM,Pune,"₹7,33,399","1,20,399 kms ", Diesel , 1st Owner, 2014,Mahindra
+123,Maruti Suzuki Vitara Brezza Zdi Plus - 2018,PLATINUM,Pune,"₹9,67,599","28,853 kms ", Diesel , 2nd Owner, 2018,Maruti
+124,Honda City - 2020,PLATINUM,Pune,"₹15,39,299","9,811 kms ", Petrol , 2nd Owner, 2020,Honda
+125,Hyundai i20 Active 1.2 S - 2015,PLATINUM,Pune,"₹5,61,499","43,538 kms ", Petrol , 2nd Owner, 2015,Hyundai
+126,Hyundai Creta - 2017,PLATINUM,Pune,"₹10,42,699","66,400 kms ", Petrol , 2nd Owner, 2017,Hyundai
+127,Maruti Suzuki S Cross - 2017,PLATINUM,Pune,"₹10,32,099","59,341 kms ", Diesel , 2nd Owner, 2017,Maruti
+128,Hyundai Creta - 2016,PLATINUM,Pune,"₹9,03,499","56,246 kms ", Petrol , 2nd Owner, 2016,Hyundai
+129,Honda Amaze - 2014,PLATINUM,Pune,"₹4,72,499","35,944 kms ", Petrol , 2nd Owner, 2014,Honda
+130,Honda WR V - 2018,PLATINUM,Pune,"₹7,71,299","17,699 kms ", Petrol , 2nd Owner, 2018,Honda
+131,Maruti Suzuki Wagon R 1.0 Vxi - 2017,PLATINUM,Pune,"₹4,47,099","41,065 kms ", Petrol , 2nd Owner, 2017,Maruti
+132,Renault Kwid - 2019,PLATINUM,Pune,"₹5,04,599","2,311 kms ", Petrol , 2nd Owner, 2019,Renault
+133,Hyundai Grand i10 - 2018,PLATINUM,Pune,"₹6,20,999","2,991 kms ", Petrol , 2nd Owner, 2018,Hyundai
+134,Hyundai Grand i10 Magna 1.2 Kappa VTVT - 2015,PLATINUM,Pune,"₹4,33,999","29,762 kms ", Petrol , 2nd Owner, 2015,Hyundai
+135,Skoda Rapid - 2016,PLATINUM,Pune,"₹6,27,499","91,917 kms ", Diesel , 2nd Owner, 2016,Skoda
+136,Maruti Suzuki Swift Dzire ZDi - 2014,GOLD,Delhi,"₹3,60,000",0 kms , Diesel,, 2014,Maruti
+137,Toyota Fortuner 3.0 4x4 MT - 2012,GOLD,Bangalore,"₹13,75,000","1,31,000 kms ", Diesel,, 2012,Toyota
+138,Maruti Suzuki 800 - 2000,GOLD,Chennai,"₹69,000","85,000 kms ", Petrol,, 2000,Maruti
+139,Tata Nano - 2011,GOLD,Chennai,"₹89,000","37,000 kms ", Petrol,, 2011,Tata
+140,Tata Indica - 2011,GOLD,Chennai,"₹89,000","67,000 kms ", Diesel,, 2011,Tata
+141,Audi Q7 3.0 TDI quattro Premium Plus - 2013,GOLD,Mumbai,"₹22,00,000","1,20,000 kms ", Diesel,, 2013,Audi
+142,Jaguar XJ L 3.0 Diesel - 2016,GOLD,Mumbai,"₹44,25,000","71,000 kms ", Diesel,, 2016,Jaguar
+143,Mercedes Benz GL Class 350 CDI - 2016,GOLD,Mumbai,"₹44,50,000","1,05,000 kms ", Diesel,, 2016,Mercedes
+144,Renault Kwid - 2019,PLATINUM,Pune,"₹5,04,599","2,311 kms ", Petrol , 2nd Owner, 2019,Renault
+145,Maruti Suzuki Dzire Vxi - 2018,PLATINUM,Pune,"₹7,04,199","30,771 kms ", Petrol , 2nd Owner, 2018,Maruti
+146,Hyundai Santro Sportz 1.1L - 2018,PLATINUM,Pune,"₹5,13,099","29,488 kms ", Petrol , 2nd Owner, 2018,Hyundai
+147,Renault Kwid - 2019,PLATINUM,Pune,"₹4,69,399","36,559 kms ", Petrol , 2nd Owner, 2019,Renault
+148,Honda WR V - 2018,PLATINUM,Pune,"₹8,44,199","38,242 kms ", Diesel , 2nd Owner, 2018,Honda
+149,Maruti Suzuki Ignis - 2017,PLATINUM,Pune,"₹5,44,799","66,426 kms ", Petrol , 1st Owner, 2017,Maruti
+150,Volkswagen Polo - 2018,PLATINUM,Pune,"₹7,10,899","16,950 kms ", Petrol , 2nd Owner, 2018,Volkswagen
+151,Maruti Suzuki Baleno - 2016,PLATINUM,Pune,"₹5,80,599","18,866 kms ", Petrol , 2nd Owner, 2016,Maruti
+152,Maruti Suzuki Swift - 2017,PLATINUM,Pune,"₹6,38,499","53,245 kms ", Diesel , 1st Owner, 2017,Maruti
+153,Hyundai Verna - 2016,PLATINUM,Pune,"₹6,54,699","44,543 kms ", Petrol , 1st Owner, 2016,Hyundai
+154,Maruti Suzuki S Cross - 2018,PLATINUM,Pune,"₹8,94,199","50,128 kms ", Diesel , 1st Owner, 2018,Maruti
+155,Maruti Suzuki S Cross - 2018,PLATINUM,Pune,"₹8,58,599","56,349 kms ", Diesel , 2nd Owner, 2018,Maruti
+156,Maruti Suzuki S Cross - 2017,PLATINUM,Pune,"₹9,92,199","69,524 kms ", Diesel , 2nd Owner, 2017,Maruti
+157,Volkswagen Polo - 2017,PLATINUM,Pune,"₹7,14,999","41,218 kms ", Petrol , 1st Owner, 2017,Volkswagen
+158,Maruti Suzuki Baleno - 2020,PLATINUM,Pune,"₹7,65,599","9,085 kms ", Petrol , 1st Owner, 2020,Maruti
+159,MG Motors Hector Sharp 2.0 Diesel - 2019,PLATINUM,Bangalore,"₹18,00,299","11,292 kms ", Diesel , 2nd Owner, 2019,MG
+160,Mercedes Benz C Class 250 CDI Avantgarde - 2011,GOLD,Mumbai,"₹11,90,000","75,000 kms ", Diesel , 2nd Owner, 2011,Mercedes
+161,Hyundai Creta 1.6 SX O CRDI - 2018,GOLD,Hyderabad,"₹14,52,000","28,000 kms ", Diesel,, 2018,Hyundai
+162,Skoda Rapid Style 1.5 TDI - 2018,GOLD,Hyderabad,"₹10,26,000","48,000 kms ", Diesel,, 2018,Skoda
+163,Maruti Suzuki Ertiga VDI SHVS LIMITED EDITION - 2017,GOLD,Hyderabad,"₹8,21,000","51,000 kms ", Diesel,, 2017,Maruti
+164,Hyundai Grand i10 Asta 1.2 Kappa VTVT - 2020,GOLD,Chennai,"₹7,25,000","24,990 kms ", Petrol,, 2020,Hyundai
+165,Maruti Suzuki Ertiga ZDi - 2015,GOLD,Delhi,"₹6,00,000","48,600 kms ", Diesel , 1st Owner, 2015,Maruti
+166,Maruti Suzuki Alto 800 Lxi - 2019,GOLD,Delhi,"₹3,36,000","3,600 kms ", Petrol , 1st Owner, 2019,Maruti
+167,Tata Indigo eCS LX CR4 BS IV - 2012,GOLD,Nanded,"₹2,00,000","1,15,000 kms ", Diesel,, 2012,Tata
+168,Maruti Suzuki Dzire Vxi - 2019,PLATINUM,Pune,"₹6,80,699","29,594 kms ", Petrol , 2nd Owner, 2019,Maruti
+169,Honda City VX MT Petrol - 2015,PLATINUM,Pune,"₹7,14,899","55,953 kms ", Petrol , 1st Owner, 2015,Honda
+170,Maruti Suzuki Alto 800 Lxi - 2016,PLATINUM,Pune,"₹3,16,799","16,980 kms ", Petrol , 1st Owner, 2016,Maruti
+171,Ford Ecosport - 2016,PLATINUM,Pune,"₹6,75,099","41,828 kms ", Diesel , 2nd Owner, 2016,Ford
+172,Maruti Suzuki S Cross - 2018,PLATINUM,Pune,"₹10,57,399","64,803 kms ", Diesel , 2nd Owner, 2018,Maruti
+173,Maruti Suzuki Ertiga VDi SHVS - 2018,PLATINUM,Pune,"₹9,38,099","44,460 kms ", Diesel , 2nd Owner, 2018,Maruti
+174,Tata Nexon - 2018,PLATINUM,Pune,"₹10,57,699","14,276 kms ", Diesel , 2nd Owner, 2018,Tata
+175,Maruti Suzuki Wagon R - 2019,PLATINUM,Pune,"₹6,10,099","23,425 kms ", Petrol , 2nd Owner, 2019,Maruti
+176,Maruti Suzuki Alto K10 Vxi O AMT - 2018,PLATINUM,Pune,"₹4,52,199","23,056 kms ", Petrol , 2nd Owner, 2018,Maruti
+177,Hyundai Elite i20 - 2019,PLATINUM,Pune,"₹7,12,699","16,102 kms ", Petrol , 2nd Owner, 2019,Hyundai
+178,Maruti Suzuki Vitara Brezza VDi - 2019,PLATINUM,Pune,"₹8,38,699","56,615 kms ", Diesel , 1st Owner, 2019,Maruti
+179,Mahindra TUV300 - 2015,PLATINUM,Pune,"₹6,66,899","70,317 kms ", Diesel , 1st Owner, 2015,Mahindra
+180,MG Motors Hector - 2020,PLATINUM,Bangalore,"₹16,81,899","6,760 kms ", Petrol , 2nd Owner, 2020,MG
+181,MG Motors Hector - 2020,PLATINUM,Chennai,"₹18,54,599","8,870 kms ", Petrol , 2nd Owner, 2020,MG
+182,Maruti Suzuki Baleno - 2016,PLATINUM,Pune,"₹5,71,499","78,209 kms ", Petrol , 1st Owner, 2016,Maruti
+183,Volkswagen Vento - 2015,PLATINUM,Pune,"₹5,89,199","64,292 kms ", Petrol , 2nd Owner, 2015,Volkswagen
+184,Toyota Innova Crysta Touring Sport Diesel MT - 2020,GOLD,Chennai,"₹23,50,000","57,000 kms ", Diesel,, 2020,Toyota
+185,Toyota Fortuner - 2019,GOLD,Chennai,"₹36,50,000","42,000 kms ", Diesel,, 2019,Toyota
+186,Toyota Innova 2.5 G 8 STR BS III - 2011,GOLD,Hyderabad,"₹4,45,000","1,41,000 kms ", Diesel,, 2011,Toyota
+187,Ssangyong Rexton RX7 - 2017,GOLD,Malappuram,"₹12,31,000","82,000 kms ", Diesel,, 2017,Ssangyong
+188,Toyota Fortuner 3.0 4x2 MT - 2012,GOLD,Chandigarh,"₹12,31,000","1,17,000 kms ", Diesel , 2nd Owner, 2012,Toyota
+189,Mahindra TUV300 T8 - 2015,GOLD,Chennai,"₹6,00,000","70,000 kms ", Diesel,, 2015,Mahindra
+190,Hyundai i20 Magna 1.4 CRDi Diesel - 2011,GOLD,Bangalore,"₹3,20,000","89,450 kms ", Diesel , 2nd Owner, 2011,Hyundai
+191,Maruti Suzuki Ertiga ZXI Plus SHVS - 2020,GOLD,Madurai,"₹11,75,000","29,000 kms ", Petrol,, 2020,Maruti
+192,Maruti Suzuki Alto K10 VXi AMT - 2015,PLATINUM,Pune,"₹3,51,699","58,771 kms ", Petrol , 2nd Owner, 2015,Maruti
+193,Maruti Suzuki Alto K10 Vxi - 2016,PLATINUM,Pune,"₹2,99,199","53,266 kms ", Petrol , 2nd Owner, 2016,Maruti
+194,Honda Amaze - 2019,PLATINUM,Pune,"₹6,57,199","9,200 kms ", Petrol , 2nd Owner, 2019,Honda
+195,Ford Ecosport - 2014,PLATINUM,Pune,"₹5,39,299","61,721 kms ", Petrol , 2nd Owner, 2014,Ford
+196,Hyundai Grand i10 - 2017,PLATINUM,Pune,"₹6,08,399","18,333 kms ", Petrol , 2nd Owner, 2017,Hyundai
+197,Ford Ecosport - 2019,PLATINUM,Pune,"₹10,42,799","51,780 kms ", Petrol , 2nd Owner, 2019,Ford
+198,Maruti Suzuki Baleno - 2018,PLATINUM,Pune,"₹6,45,199","30,854 kms ", Petrol , 2nd Owner, 2018,Maruti
+199,Ford Ecosport - 2017,PLATINUM,Pune,"₹8,11,899","24,680 kms ", Petrol , 2nd Owner, 2017,Ford
+200,Volkswagen Vento - 2015,PLATINUM,Pune,"₹5,57,799","85,663 kms ", Petrol , 1st Owner, 2015,Volkswagen
+201,Mahindra Bolero - 2021,PLATINUM,Pune,"₹8,73,999","20,541 kms ", Diesel , 2nd Owner, 2021,Mahindra
+202,Hyundai i20 Magna O 1.2 - 2010,PLATINUM,Pune,"₹2,78,299","64,182 kms ", Petrol , 1st Owner, 2010,Hyundai
+203,Maruti Suzuki S Cross - 2017,PLATINUM,Pune,"₹9,86,399","58,819 kms ", Diesel , 2nd Owner, 2017,Maruti
+204,Maruti Suzuki Wagon R - 2019,PLATINUM,Pune,"₹6,10,099","32,057 kms ", Petrol , 2nd Owner, 2019,Maruti
+205,Jeep Compass - 2018,PLATINUM,Pune,"₹17,49,899","18,403 kms ", Petrol , 2nd Owner, 2018,Jeep
+206,Maruti Suzuki Alto K10 Vxi O AMT - 2018,PLATINUM,Pune,"₹4,43,899","7,877 kms ", Petrol , 2nd Owner, 2018,Maruti
+207,Hyundai Verna 1.6 SX VTVT - 2018,PLATINUM,Pune,"₹9,36,299","15,509 kms ", Petrol , 2nd Owner, 2018,Hyundai
+208,Honda Jazz VX AT - 2018,GOLD,Madurai,"₹8,50,000","15,000 kms ", Petrol,, 2018,Honda
+209,Maruti Suzuki Ignis Zeta 1.3 AT - 2017,GOLD,Madurai,"₹5,95,000","75,000 kms ", Diesel,, 2017,Maruti
+210,Hyundai i10 Magna 1.1 iRDE2 - 2008,GOLD,Mumbai,"₹1,75,000","62,000 kms ", Petrol,, 2008,Hyundai
+211,Hyundai Creta 1.6 VTVT SX AUTO - 2018,GOLD,Chennai,"₹9,30,000","1,34,500 kms ", Diesel,, 2018,Hyundai
+212,Toyota Fortuner 3.0 MT 4X4 - 2012,GOLD,BolpurSantiniketan,"₹15,00,000","63,896 kms ", Diesel,, 2012,Toyota
+213,Mahindra Scorpio - 2005,GOLD,Chennai,"₹1,59,000","90,000 kms ", Diesel,, 2005,Mahindra
+214,Maruti Suzuki Alto - 2007,GOLD,Chennai,"₹69,000","58,000 kms ", Petrol,, 2007,Maruti
+215,Ford Ikon - 2008,GOLD,Chennai,"₹69,000","85,000 kms ", Diesel,, 2008,Ford
+216,Maruti Suzuki Baleno - 2016,PLATINUM,Pune,"₹5,80,599","48,329 kms ", Petrol , 1st Owner, 2016,Maruti
+217,Renault Kwid RXT Opt - 2019,PLATINUM,Pune,"₹4,04,499","21,301 kms ", Petrol , 2nd Owner, 2019,Renault
+218,Maruti Suzuki Vitara Brezza VDi - 2019,PLATINUM,Pune,"₹8,38,699","34,566 kms ", Diesel , 2nd Owner, 2019,Maruti
+219,Renault Kwid - 2018,PLATINUM,Pune,"₹4,46,499","34,297 kms ", Petrol , 2nd Owner, 2018,Renault
+220,Tata Hexa - 2017,PLATINUM,Pune,"₹10,47,499","1,19,571 kms ", Diesel , 2nd Owner, 2017,Tata
+221,Maruti Suzuki Alto 800 Lxi - 2018,PLATINUM,Pune,"₹3,45,599","27,957 kms ", Petrol , 2nd Owner, 2018,Maruti
+222,Ford Ecosport - 2018,PLATINUM,Pune,"₹7,84,399","27,210 kms ", Petrol , 2nd Owner, 2018,Ford
+223,Maruti Suzuki Swift Vxi - 2014,PLATINUM,Pune,"₹4,89,399","21,610 kms ", Petrol , 2nd Owner, 2014,Maruti
+224,Maruti Suzuki Baleno - 2017,PLATINUM,Pune,"₹6,27,499","40,902 kms ", Petrol , 2nd Owner, 2017,Maruti
+225,Maruti Suzuki Alto 800 Lxi - 2015,PLATINUM,Pune,"₹2,88,399","11,057 kms ", Petrol , 2nd Owner, 2015,Maruti
+226,Maruti Suzuki Baleno - 2016,PLATINUM,Pune,"₹5,73,999","72,505 kms ", Petrol , 2nd Owner, 2016,Maruti
+227,Hyundai Creta - 2018,PLATINUM,Pune,"₹13,73,699","31,338 kms ", Petrol , 1st Owner, 2018,Hyundai
+228,Maruti Suzuki Alto 800 Lxi - 2016,PLATINUM,Pune,"₹2,79,799","28,674 kms ", Petrol , 2nd Owner, 2016,Maruti
+229,Hyundai Elite i20 Sportz 1.2 - 2018,PLATINUM,Pune,"₹6,58,199","25,416 kms ", Petrol , 1st Owner, 2018,Hyundai
+230,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2016,PLATINUM,Pune,"₹4,65,499","14,765 kms ", Petrol , 2nd Owner, 2016,Hyundai
+231,Toyota Etios - 2015,PLATINUM,Pune,"₹5,63,999","60,380 kms ", Diesel , 1st Owner, 2015,Toyota
+232,Hyundai Santro - 2001,GOLD,Chennai,"₹59,000","85,000 kms ", Petrol,, 2001,Hyundai
+233,Hyundai Getz - 2006,GOLD,Chennai,"₹1,19,000","73,000 kms ", Petrol,, 2006,Hyundai
+234,Hyundai Santro Xing - 2004,GOLD,Chennai,"₹69,000","85,000 kms ", Petrol,, 2004,Hyundai
+235,Hyundai Santro - 2002,GOLD,Chennai,"₹89,000","85,000 kms ", Petrol,, 2002,Hyundai
+236,Ford Figo - 2012,GOLD,Chennai,"₹1,29,000","86,000 kms ", Diesel,, 2012,Ford
+237,Toyota Fortuner 2.8 4x2 MT - 2019,GOLD,Lucknow,"₹29,31,000","55,000 kms ", Diesel,, 2019,Toyota
+238,Mahindra Bolero ZLX BS IV - 2018,GOLD,Chennai,"₹7,90,000","79,950 kms ", Diesel,, 2018,Mahindra
+239,Fiat Linea Emotion Pack - 2009,GOLD,Chennai,"₹2,00,000","75,000 kms ", Diesel,, 2009,Fiat
+240,Maruti Suzuki Baleno - 2018,PLATINUM,Pune,"₹7,18,699","19,775 kms ", Petrol , 2nd Owner, 2018,Maruti
+241,Tata Tiago - 2018,PLATINUM,Pune,"₹5,43,399","28,495 kms ", Petrol , 1st Owner, 2018,Tata
+242,Hyundai Creta - 2020,PLATINUM,Pune,"₹17,80,399","28,344 kms ", Diesel , 2nd Owner, 2020,Hyundai
+243,Toyota Glanza - 2020,PLATINUM,Pune,"₹7,57,999","10,801 kms ", Petrol , 2nd Owner, 2020,Toyota
+244,Tata Nexon - 2019,PLATINUM,Pune,"₹10,13,999","4,365 kms ", Petrol , 1st Owner, 2019,Tata
+245,Maruti Suzuki Celerio VDi - 2016,PLATINUM,Pune,"₹4,39,999","53,266 kms ", Diesel , 2nd Owner, 2016,Maruti
+246,Maruti Suzuki S Cross - 2018,PLATINUM,Pune,"₹8,39,199","50,866 kms ", Diesel , 2nd Owner, 2018,Maruti
+247,Maruti Suzuki Alto K10 Vxi - 2019,PLATINUM,Pune,"₹4,21,799","24,230 kms ", Petrol , 2nd Owner, 2019,Maruti
+248,Maruti Suzuki Baleno - 2016,PLATINUM,Pune,"₹5,80,599","64,275 kms ", Petrol , 2nd Owner, 2016,Maruti
+249,Hyundai Venue - 2019,PLATINUM,Pune,"₹9,86,799","8,924 kms ", Petrol , 2nd Owner, 2019,Hyundai
+250,MG Motors Hector - 2021,PLATINUM,Pune,"₹20,57,399","12,208 kms ", Petrol , 2nd Owner, 2021,MG
+251,Honda City V CVT - 2018,PLATINUM,Pune,"₹10,82,299","26,956 kms ", Petrol , 2nd Owner, 2018,Honda
+252,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2017,PLATINUM,Pune,"₹5,76,999","12,223 kms ", Petrol , 2nd Owner, 2017,Hyundai
+253,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2016,PLATINUM,Pune,"₹5,33,199","23,960 kms ", Petrol , 2nd Owner, 2016,Hyundai
+254,Maruti Suzuki Wagon R 1.0 VXi AMT - 2015,PLATINUM,Pune,"₹4,73,299","33,687 kms ", Petrol , 2nd Owner, 2015,Maruti
+255,MG Motors Hector - 2020,PLATINUM,Pune,"₹18,38,399","24,887 kms ", Petrol , 2nd Owner, 2020,MG
+256,Toyota Innova 2.5 V 7 STR - 2013,GOLD,Mumbai,"₹8,00,000","74,000 kms ", Diesel , 2nd Owner, 2013,Toyota
+257,Nissan Micra XE - 2011,GOLD,Bhubaneswar,"₹1,99,000","40,000 kms ", Petrol,, 2011,Nissan
+258,Hyundai Creta 1.6 SX AT CRDI - 2020,GOLD,Pune,"₹17,50,000","45,000 kms ", Diesel,, 2020,Hyundai
+259,Maruti Suzuki Swift Dzire ZDI AMT - 2018,GOLD,Chennai,"₹5,95,000","41,000 kms ", Diesel,, 2018,Maruti
+260,Hyundai Grand i10 SPORTS 1.2 VTVT - 2014,GOLD,Pune,Ask For Price,"52,000 kms ", Petrol,, 2014,Hyundai
+261,BMW 3 Series 320d Luxury Line - 2015,GOLD,Mumbai,"₹18,90,000","61,000 kms ", Diesel , 2nd Owner, 2015,BMW
+262,Jaguar XF 2.2 Diesel Luxury - 2014,GOLD,Mumbai,"₹21,50,000","20,000 kms ", Diesel , 2nd Owner, 2014,Jaguar
+263,Hyundai Verna Fluidic - 2015,GOLD,Mumbai,"₹6,99,000","26,000 kms ", Petrol , 1st Owner, 2015,Hyundai
+264,Hyundai Grand i10 Asta AT 1.2 Kappa VTVT - 2015,PLATINUM,Pune,"₹4,51,799","71,423 kms ", Petrol , 2nd Owner, 2015,Hyundai
+265,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2015,PLATINUM,Pune,"₹4,46,999","34,095 kms ", Petrol , 1st Owner, 2015,Hyundai
+266,Maruti Suzuki Wagon R 1.0 VXi AMT - 2016,PLATINUM,Pune,"₹4,70,799","32,658 kms ", Petrol , 2nd Owner, 2016,Maruti
+267,Maruti Suzuki Ignis - 2017,PLATINUM,Pune,"₹5,11,799","33,166 kms ", Petrol , 2nd Owner, 2017,Maruti
+268,Maruti Suzuki Wagon R 1.0 Vxi - 2014,PLATINUM,Chennai,"₹3,99,899","31,284 kms ", Petrol , 2nd Owner, 2014,Maruti
+269,Maruti Suzuki Wagon R 1.0 Vxi - 2015,PLATINUM,Pune,"₹3,75,999","66,090 kms ", Petrol , 2nd Owner, 2015,Maruti
+270,Ford Ecosport - 2016,PLATINUM,Pune,"₹6,64,799","51,295 kms ", Petrol , 2nd Owner, 2016,Ford
+271,Maruti Suzuki Baleno - 2016,PLATINUM,Pune,"₹6,17,799","48,693 kms ", Petrol , 2nd Owner, 2016,Maruti
+272,Maruti Suzuki Ciaz - 2017,PLATINUM,Pune,"₹7,49,299","36,626 kms ", Diesel , 2nd Owner, 2017,Maruti
+273,Renault Duster - 2016,PLATINUM,Pune,"₹7,95,799","55,752 kms ", Diesel , 2nd Owner, 2016,Renault
+274,Tata Tigor - 2017,PLATINUM,Pune,"₹5,43,499","49,341 kms ", Diesel , 2nd Owner, 2017,Tata
+275,Maruti Suzuki Alto K10 Vxi - 2015,PLATINUM,Chennai,"₹3,17,199","60,251 kms ", Petrol , 2nd Owner, 2015,Maruti
+276,Maruti Suzuki Alto K10 VXi AMT - 2015,PLATINUM,Pune,"₹3,73,699","22,269 kms ", Petrol , 2nd Owner, 2015,Maruti
+277,Volkswagen Ameo - 2016,PLATINUM,Pune,"₹5,01,799","38,999 kms ", Petrol , 2nd Owner, 2016,Volkswagen
+278,Maruti Suzuki Vitara Brezza VDi - 2019,PLATINUM,Pune,"₹8,38,699","29,110 kms ", Diesel , 2nd Owner, 2019,Maruti
+279,Hyundai Creta - 2020,PLATINUM,Pune,"₹18,04,399","14,506 kms ", Petrol , 2nd Owner, 2020,Hyundai
+280,Chevrolet Beat LT Petrol - 2010,GOLD,Bangalore,"₹1,75,000","55,000 kms ", Petrol,, 2010,Chevrolet
+281,Tata Hexa XM 4x2 7 STR - 2018,GOLD,Madurai,"₹12,00,000","60,000 kms ", Diesel,, 2018,Tata
+282,Toyota Corolla H5 1.8E - 2006,GOLD,Chennai,"₹1,70,000","80,000 kms ", Petrol,, 2006,Toyota
+283,Maruti Suzuki Maruti 800 Std BSII - 2005,GOLD,,"₹65,000","1,08,252 kms ", Petrol,, 2005,Maruti
+284,Maruti Suzuki Wagon R VXI BS IV - 2014,GOLD,Chennai,"₹3,60,000","36,000 kms ", Petrol,, 2014,Maruti
+285,Hyundai Xcent 1.2 S CRDI - 2016,GOLD,Chennai,"₹2,99,000","95,000 kms ", Diesel , 2nd Owner, 2016,Hyundai
+286,Ford Figo 1.5 TITANIUM - 2010,GOLD,Chennai,"₹1,76,000","88,000 kms ", Diesel , 2nd Owner, 2010,Ford
+287,Maruti Suzuki Wagon R LX BS IV - 2014,GOLD,Chennai,"₹3,25,000","60,000 kms ", Petrol , 1st Owner, 2014,Maruti
+288,Hyundai Creta - 2020,PLATINUM,Pune,"₹18,04,399","14,506 kms ", Petrol , 2nd Owner, 2020,Hyundai
+289,Maruti Suzuki S Cross - 2017,PLATINUM,Pune,"₹9,85,299","29,115 kms ", Diesel , 2nd Owner, 2017,Maruti
+290,Maruti Suzuki Baleno - 2017,PLATINUM,Pune,"₹6,42,899","34,763 kms ", Petrol , 2nd Owner, 2017,Maruti
+291,Maruti Suzuki Ciaz ZDi Plus SHVS RS - 2015,PLATINUM,Chennai,"₹7,40,000","12,500 kms ", Diesel , 2nd Owner, 2015,Maruti
+292,Maruti Suzuki Baleno Zeta 1.3 - 2017,PLATINUM,Pune,"₹6,10,000","85,000 kms ", Petrol,, 2017,Maruti
+293,Hyundai Grand i10 ASTA 1.2 O VTVT - 2016,PLATINUM,Pune,"₹4,95,000","40,000 kms ", Petrol,, 2016,Hyundai
+294,Hyundai Verna 1.6 SX - 2014,PLATINUM,Pune,"₹5,10,000","71,000 kms ", Petrol,, 2014,Hyundai
+295,Maruti Suzuki Baleno Delta 1.2 - 2017,PLATINUM,Pune,"₹5,60,000","44,000 kms ", Petrol,, 2017,Maruti
+296,Toyota Innova 2.0 G4 - 2009,PLATINUM,Pune,"₹4,55,000","1,24,000 kms ", Diesel,, 2009,Toyota
+297,Maruti Suzuki Wagon R 1.0 LXi CNG - 2012,PLATINUM,Pune,"₹3,50,000","78,000 kms ", CNG,, 2012,Maruti
+298,Renault Kwid CLIMBER 1.0 AT - 2017,PLATINUM,Bangalore,"₹4,63,099","44,696 kms ", Petrol , 1st Owner, 2017,Renault
+299,Maruti Suzuki Alto 800 Lxi - 2018,PLATINUM,Pune,"₹3,50,599","33,004 kms ", Petrol , 2nd Owner, 2018,Maruti
+300,Hyundai Verna Fluidic 1.4 VTVT - 2016,PLATINUM,Chennai,"₹6,36,299","46,034 kms ", Petrol , 1st Owner, 2016,Hyundai
+301,Hyundai Grand i10 NIOS - 2020,PLATINUM,Chennai,"₹6,98,199","60,307 kms ", Petrol , 1st Owner, 2020,Hyundai
+302,Hyundai Grand i10 NIOS - 2021,PLATINUM,Chennai,"₹7,64,199","8,825 kms ", Petrol , 1st Owner, 2021,Hyundai
+303,Maruti Suzuki Celerio VXi - 2019,PLATINUM,Chennai,"₹5,24,799","5,743 kms ", Petrol , 1st Owner, 2019,Maruti
+304,Ford EcoSport Ambiente 1.5 TDCi - 2013,GOLD,Chennai,"₹4,20,000","87,000 kms ", Diesel , 1st Owner, 2013,Ford
+305,Kia Seltos GTX Plus 1.4 - 2020,GOLD,Bangalore,"₹18,31,000","19,500 kms ", Petrol,, 2020,Kia
+306,Chevrolet Beat LS Petrol - 2010,GOLD,Chennai,"₹2,10,000","60,000 kms ", Petrol,, 2010,Chevrolet
+307,Volkswagen Vento Highline Petrol AT - 2013,GOLD,Chennai,"₹4,65,000","70,000 kms ", Petrol,, 2013,Volkswagen
+308,Audi Q7 35 TDI Premium Plus Sunroof - 2017,GOLD,Chennai,"₹22,50,000","65,000 kms ", Diesel,, 2017,Audi
+309,Maruti Suzuki Ertiga ZXI Plus SHVS - 2020,GOLD,Chennai,"₹10,90,000","35,623 kms ", Petrol,, 2020,Maruti
+310,Toyota Innova - 2005,GOLD,Bangalore,"₹3,75,000","1,60,000 kms ", Petrol,, 2005,Toyota
+311,Hyundai i20 Sportz 1.2 - 2009,GOLD,Chennai,"₹2,25,000","98,500 kms ", Petrol,, 2009,Hyundai
+312,Maruti Suzuki Celerio VXi - 2019,PLATINUM,Chennai,"₹5,24,799","5,743 kms ", Petrol , 1st Owner, 2019,Maruti
+313,Maruti Suzuki Eeco 5 STR WITH AC PLUSHTR - 2019,PLATINUM,Chennai,"₹4,93,899","25,735 kms ", Petrol , 1st Owner, 2019,Maruti
+314,Hyundai Elite i20 1.2 ASTA O CVT - 2019,PLATINUM,Chennai,"₹8,25,299","37,522 kms ", Petrol , 2nd Owner, 2019,Hyundai
+315,Maruti Suzuki Wagon R 1.0 VXi - 2018,PLATINUM,Chennai,"₹4,95,499","38,955 kms ", Petrol , 1st Owner, 2018,Maruti
+316,Datsun Redi GO - 2017,PLATINUM,Chennai,Ask For Price,"40,664 kms ", Petrol , 1st Owner, 2017,Datsun
+317,Hyundai Eon Era Plus - 2014,PLATINUM,Chennai,"₹2,77,599","65,308 kms ", Petrol , 1st Owner, 2014,Hyundai
+318,Maruti Suzuki Wagon R Duo - 2017,PLATINUM,Chennai,"₹4,73,899","30,467 kms ", Petrol , 1st Owner, 2017,Maruti
+319,Hyundai Venue S MT Turbo GDI 1.0L - 2019,PLATINUM,Chennai,"₹8,55,299","1,954 kms ", Petrol , 1st Owner, 2019,Hyundai
+320,Hyundai Santro 1.1 SPORTS AMT - 2019,PLATINUM,Chennai,"₹5,40,299","35,220 kms ", Petrol , 1st Owner, 2019,Hyundai
+321,Hyundai Elite i20 ASTA 1.2 O  - 2016,PLATINUM,Chennai,"₹6,42,899","75,876 kms ", Petrol , 1st Owner, 2016,Hyundai
+322,Maruti Suzuki Alto VXi - 2021,PLATINUM,Chennai,"₹4,42,299","27,020 kms ", Petrol , 1st Owner, 2021,Maruti
+323,Renault Triber 1.0 RXZ - 2019,PLATINUM,Chennai,"₹7,25,399","13,739 kms ", Petrol , 1st Owner, 2019,Renault
+324,Maruti Suzuki Wagon R - 2019,PLATINUM,Chennai,"₹5,58,299","21,544 kms ", Petrol , 1st Owner, 2019,Maruti
+325,Maruti Suzuki Alto K10 VXi - 2016,PLATINUM,Chennai,"₹3,54,299","13,816 kms ", Petrol , 1st Owner, 2016,Maruti
+326,Hyundai Elite i20 ASTA 1.2 O  - 2016,PLATINUM,Chennai,"₹6,73,599","23,817 kms ", Petrol , 1st Owner, 2016,Hyundai
+327,Hyundai Grand i10 Sportz O 1.2 MT - 2017,PLATINUM,Chennai,"₹5,25,099","60,985 kms ", Petrol , 1st Owner, 2017,Hyundai
+328,Hyundai Verna SX CRDi AT - 2012,GOLD,Chennai,"₹5,25,000","80,000 kms ", Diesel,, 2012,Hyundai
+329,Volkswagen Polo Comfortline 1.2L P - 2018,GOLD,Chennai,"₹6,75,000","30,123 kms ", Petrol,, 2018,Volkswagen
+330,Renault Kwid RXT - 2016,GOLD,Chennai,"₹3,25,000","67,000 kms ", Petrol,, 2016,Renault
+331,Renault Triber RXT - 2020,GOLD,Chennai,"₹6,45,000","26,123 kms ", Petrol,, 2020,Renault
+332,Maruti Suzuki Ertiga VXI Limited Edition - 2017,GOLD,Chennai,"₹7,85,000","60,123 kms ", Petrol,, 2017,Maruti
+333,Mahindra TUV300 T8 AMT - 2016,GOLD,Chennai,"₹6,90,000","52,123 kms ", Diesel,, 2016,Mahindra
+334,Maruti Suzuki Celerio LXi AMT - 2018,GOLD,Chennai,"₹4,25,000","11,123 kms ", Petrol,, 2018,Maruti
+335,Hyundai Elite i20 Magna Executive 1.2 - 2019,GOLD,Chennai,"₹6,45,000","41,233 kms ", Petrol,, 2019,Hyundai
+336,Maruti Suzuki Swift ZXi - 2016,PLATINUM,Chennai,"₹5,29,699","50,141 kms ", Petrol , 1st Owner, 2016,Maruti
+337,Maruti Suzuki Ertiga - 2018,PLATINUM,Bangalore,"₹10,81,899","86,033 kms ", Diesel,, 2018,Maruti
+338,Fiat Linea Dynamic 1.3 - 2012,PLATINUM,Kolkata,"₹2,56,000","30,000 kms ", Petrol , 1st Owner, 2012,Fiat
+339,Honda City ZX EXi - 2008,PLATINUM,Bangalore,"₹2,90,000","86,924 kms ", Petrol,, 2008,Honda
+340,Volkswagen Polo GT TSI - 2016,PLATINUM,Bangalore,"₹7,35,000","68,870 kms ", Petrol,, 2016,Volkswagen
+341,Maruti Suzuki XL6 - 2019,PLATINUM,Bangalore,"₹12,44,799","22,292 kms ", Petrol , 2nd Owner, 2019,Maruti
+342,Honda Amaze - 2014,PLATINUM,Bangalore,"₹4,74,399","44,013 kms ", Petrol , 1st Owner, 2014,Honda
+343,Maruti Suzuki Wagon R 1.0 VXi Opt - 2016,PLATINUM,Bangalore,"₹3,89,399","96,250 kms ", Petrol , 2nd Owner, 2016,Maruti
+344,Maruti Suzuki Swift Vxi - 2017,PLATINUM,Chennai,"₹5,62,399","59,839 kms ", Petrol , 2nd Owner, 2017,Maruti
+345,Hyundai Grand i10 - 2015,PLATINUM,Chennai,"₹4,46,699","49,693 kms ", Petrol , 2nd Owner, 2015,Hyundai
+346,Renault Kwid RXT 1.0 EASY R AT - 2017,PLATINUM,Bangalore,"₹4,39,999","22,223 kms ", Petrol , 1st Owner, 2017,Renault
+347,Honda Amaze - 2021,PLATINUM,Bangalore,"₹9,18,999","8,030 kms ", Petrol , 2nd Owner, 2021,Honda
+348,Volkswagen Polo - 2016,PLATINUM,Bangalore,"₹8,15,799","38,780 kms ", Petrol , 2nd Owner, 2016,Volkswagen
+349,Maruti Suzuki Vitara Brezza ZDi - 2018,PLATINUM,Bangalore,"₹8,96,799","31,919 kms ", Diesel , 2nd Owner, 2018,Maruti
+350,Hyundai i10 Sportz 1.1 iRDE2 - 2015,PLATINUM,Bangalore,"₹4,11,399","47,564 kms ", Petrol , 2nd Owner, 2015,Hyundai
+351,Hyundai Grand i10 - 2013,PLATINUM,Bangalore,"₹4,98,999","42,836 kms ", Petrol , 2nd Owner, 2013,Hyundai
+352,Renault Kwid RXT - 2020,GOLD,Chennai,"₹4,70,000","6,000 kms ", Petrol,, 2020,Renault
+353,Tata Indica - 2007,GOLD,Chennai,"₹69,000","85,000 kms ", Diesel,, 2007,Tata
+354,Mahindra TUV300 T8 - 2018,GOLD,Madurai,"₹9,25,000","27,000 kms ", Diesel,, 2018,Mahindra
+355,Mahindra Scorpio LX BS IV - 2013,GOLD,Chennai,"₹4,95,000","6,90,000 kms ", Diesel,, 2013,Mahindra
+356,Skoda Rapid 1.5 TDI CR Elegance - 2013,GOLD,Chennai,Ask For Price,"1,45,000 kms ", Diesel,, 2013,Skoda
+357,Maruti Suzuki Ertiga ZXI Plus SHVS - 2020,GOLD,Chennai,"₹10,90,000","35,000 kms ", Petrol,, 2020,Maruti
+358,Toyota Etios Liva GD - 2013,GOLD,Delhi,"₹3,00,000","1,35,000 kms ", Diesel,, 2013,Toyota
+359,Tata Aria Prestige 4X4 - 2012,GOLD,Bangalore,"₹4,50,000","1,15,000 kms ", Diesel,, 2012,Tata
+360,Ford Figo - 2015,PLATINUM,Bangalore,"₹3,57,999","50,488 kms ", Petrol , 2nd Owner, 2015,Ford
+361,Maruti Suzuki Ignis - 2018,PLATINUM,Pune,"₹4,62,599","12,916 kms ", Petrol , 1st Owner, 2018,Maruti
+362,Hyundai Elite i20 Asta 1.2 - 2016,PLATINUM,Bangalore,"₹6,95,199","30,731 kms ", Petrol , 1st Owner, 2016,Hyundai
+363,Maruti Suzuki Eeco 7 STR - 2019,PLATINUM,Bangalore,"₹4,90,399","8,825 kms ", Petrol , 2nd Owner, 2019,Maruti
+364,Renault Kwid RxL - 2016,PLATINUM,Bangalore,"₹3,40,099","21,627 kms ", Petrol , 3rd Owner, 2016,Renault
+365,Maruti Suzuki Ertiga - 2020,PLATINUM,Bangalore,"₹9,97,899","5,580 kms ", Petrol , 2nd Owner, 2020,Maruti
+366,Hyundai i10 Sportz 1.2 Kappa2 - 2013,PLATINUM,Bangalore,"₹3,51,599","41,371 kms ", Petrol , 1st Owner, 2013,Hyundai
+367,Maruti Suzuki Swift Dzire Vxi - 2016,PLATINUM,Bangalore,"₹6,03,799","42,313 kms ", Petrol , 1st Owner, 2016,Maruti
+368,Hyundai Elite i20 Sportz 1.2 - 2016,PLATINUM,Bangalore,"₹5,99,799","74,913 kms ", Petrol , 2nd Owner, 2016,Hyundai
+369,Maruti Suzuki Wagon R 1.0 Vxi - 2018,PLATINUM,Bangalore,"₹4,56,099","74,760 kms ", Petrol , 2nd Owner, 2018,Maruti
+370,Ford Ecosport - 2019,PLATINUM,Bangalore,"₹9,93,699","34,045 kms ", Diesel , 2nd Owner, 2019,Ford
+371,Maruti Suzuki Ritz - 2010,PLATINUM,Bangalore,"₹3,12,299","1,43,147 kms ", Petrol , 2nd Owner, 2010,Maruti
+372,Hyundai Venue - 2019,PLATINUM,Bangalore,"₹12,21,799","28,149 kms ", Petrol , 1st Owner, 2019,Hyundai
+373,Maruti Suzuki Swift Vxi - 2015,PLATINUM,Bangalore,"₹5,22,999","38,049 kms ", Petrol , 2nd Owner, 2015,Maruti
+374,Hyundai EON Magna Plus - 2014,PLATINUM,Bangalore,"₹3,23,399","78,895 kms ", Petrol , 2nd Owner, 2014,Hyundai
+375,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2015,PLATINUM,Bangalore,"₹5,10,799","27,027 kms ", Petrol , 2nd Owner, 2015,Hyundai
+376,Mahindra XUV 500 W8 2013 - 2013,GOLD,Pune,"₹7,50,000","66,000 kms ", Diesel,, 2013,Mahindra
+377,Hyundai Getz GLS - 2005,GOLD,Bangalore,"₹1,55,000","82,000 kms ", Petrol,, 2005,Hyundai
+378,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2011,GOLD,Chennai,"₹3,50,000","57,000 kms ", Petrol,, 2011,Maruti
+379,Honda Amaze 1.5 VX i DTEC - 2014,GOLD,Pune,"₹4,10,000","71,000 kms ", Diesel,, 2014,Honda
+380,Hyundai Eon Era Plus - 2014,GOLD,Pune,"₹2,75,000","47,000 kms ", CNG,, 2014,Hyundai
+381,Hyundai Grand i10 MAGNA 1.2 VTVT - 2017,GOLD,Pune,"₹4,65,000","37,000 kms ", Petrol,, 2017,Hyundai
+382,Maruti Suzuki Zen Estilo LXI Green CNG - 2007,GOLD,Bangalore,"₹1,45,000","73,000 kms ", Petrol,, 2007,Maruti
+383,Hyundai Getz GLS - 2007,GOLD,Bangalore,"₹1,65,000","82,650 kms ", Petrol,, 2007,Hyundai
+384,Maruti Suzuki Vitara Brezza ZXI - 2020,PLATINUM,Pune,"₹9,10,799","23,940 kms ", Petrol , 2nd Owner, 2020,Maruti
+385,Renault Captur - 2018,PLATINUM,Chennai,"₹7,22,899","26,678 kms ", Petrol , 2nd Owner, 2018,Renault
+386,Honda WR V - 2018,PLATINUM,Pune,"₹8,09,499","41,342 kms ", Diesel , 2nd Owner, 2018,Honda
+387,Maruti Suzuki Alto 800 LXI Option - 2013,PLATINUM,Bangalore,"₹2,97,399","59,614 kms ", Petrol , 1st Owner, 2013,Maruti
+388,Maruti Suzuki Alto K10 VXi AMT - 2016,PLATINUM,Bangalore,"₹4,11,999","39,550 kms ", Petrol , 2nd Owner, 2016,Maruti
+389,Renault Triber - 2019,PLATINUM,Bangalore,"₹6,23,399","28,621 kms ", Petrol , 1st Owner, 2019,Renault
+390,Honda Brio - 2013,PLATINUM,Bangalore,"₹3,72,399","60,437 kms ", Petrol , 1st Owner, 2013,Honda
+391,Maruti Suzuki Wagon R 1.0 Vxi Plus AMT - 2018,PLATINUM,Chennai,"₹5,18,099","26,598 kms ", Petrol , 2nd Owner, 2018,Maruti
+392,Honda Amaze - 2015,PLATINUM,Chennai,"₹4,85,599","62,723 kms ", Petrol , 2nd Owner, 2015,Honda
+393,Maruti Suzuki Baleno - 2017,PLATINUM,Chennai,"₹6,36,899","21,145 kms ", Petrol , 2nd Owner, 2017,Maruti
+394,Hyundai Grand i10 - 2013,PLATINUM,Pune,"₹3,96,999","48,699 kms ", Petrol , 1st Owner, 2013,Hyundai
+395,Ford Ecosport - 2019,PLATINUM,Pune,"₹9,80,399","10,102 kms ", Petrol , 2nd Owner, 2019,Ford
+396,Maruti Suzuki Baleno - 2017,PLATINUM,Bangalore,"₹6,58,999","34,881 kms ", Petrol , 1st Owner, 2017,Maruti
+397,Hyundai EON D Lite Plus - 2015,PLATINUM,Bangalore,"₹3,04,099","53,997 kms ", Petrol , 2nd Owner, 2015,Hyundai
+398,Maruti Suzuki Alto K10 VXi AMT - 2015,PLATINUM,Bangalore,"₹3,62,599","49,076 kms ", Petrol , 1st Owner, 2015,Maruti
+399,Maruti Suzuki Alto K10 VXi - 2014,PLATINUM,Bangalore,"₹3,44,199","65,951 kms ", Petrol , 2nd Owner, 2014,Maruti
+400,Maruti Suzuki Swift VXI BSIII - 2007,GOLD,Bangalore,"₹2,15,000","1,16,000 kms ", Petrol,, 2007,Maruti
+401,Skoda Rapid 1.5 TDI CR Elegance Black Package AT - 2015,GOLD,Bangalore,"₹5,50,000","1,36,000 kms ", Diesel , 1st Owner, 2015,Skoda
+402,Renault Duster 110PS Diesel RxZ - 2013,GOLD,Pune,"₹5,50,000","85,000 kms ", Diesel,, 2013,Renault
+403,Hyundai Santro - 2002,GOLD,Chennai,"₹89,000","85,000 kms ", Petrol,, 2002,Hyundai
+404,Maruti Suzuki Alto - 2001,GOLD,Chennai,"₹79,000","85,000 kms ", Petrol,, 2001,Maruti
+405,Chevrolet Aveo - 2007,GOLD,Chennai,"₹67,000","63,000 kms ", Petrol,, 2007,Chevrolet
+406,Ford Ikon - 2009,GOLD,Chennai,"₹59,000","73,000 kms ", Petrol,, 2009,Ford
+407,Maruti Suzuki Wagon R - 2007,GOLD,Chennai,"₹69,000","85,000 kms ", Petrol,, 2007,Maruti
+408,Maruti Suzuki Alto K10 - 2017,PLATINUM,Bangalore,"₹4,62,399","15,032 kms ", Petrol , 1st Owner, 2017,Maruti
+409,Maruti Suzuki Alto 800 Lxi - 2017,PLATINUM,Pune,"₹3,19,999","15,575 kms ", Petrol , 2nd Owner, 2017,Maruti
+410,Maruti Suzuki Swift VDi - 2010,PLATINUM,Pune,"₹2,75,699","1,47,819 kms ", Diesel , 3rd Owner, 2010,Maruti
+411,Hyundai Grand i10 SPORTS 1.2 VTVT - 2016,PLATINUM,Bangalore,"₹5,01,599","35,203 kms ", Petrol , 2nd Owner, 2016,Hyundai
+412,Maruti Suzuki Eeco 5 STR WITH AC PLUSHTR - 2020,PLATINUM,Bangalore,"₹5,06,599","7,597 kms ", Petrol , 1st Owner, 2020,Maruti
+413,Mahindra Scorpio S5 2WD - 2018,PLATINUM,Bangalore,"₹11,98,599","34,883 kms ", Diesel , 1st Owner, 2018,Mahindra
+414,Ford Ecosport - 2017,PLATINUM,Bangalore,"₹7,75,499","59,580 kms ", Diesel , 2nd Owner, 2017,Ford
+415,Maruti Suzuki Ritz Lxi - 2011,PLATINUM,Bangalore,"₹3,38,999","49,647 kms ", Petrol , 2nd Owner, 2011,Maruti
+416,Hyundai Verna Fluidic 1.4 VTVT - 2016,PLATINUM,Bangalore,"₹6,52,699","67,577 kms ", Petrol , 2nd Owner, 2016,Hyundai
+417,Tata Tiago - 2017,PLATINUM,Bangalore,"₹5,35,899","10,890 kms ", Petrol , 1st Owner, 2017,Tata
+418,Maruti Suzuki Swift ZXI - 2015,PLATINUM,Chennai,"₹4,92,099","57,444 kms ", Petrol , 1st Owner, 2015,Maruti
+419,Honda City - 2017,PLATINUM,Bangalore,"₹8,85,999","33,598 kms ", Petrol , 2nd Owner, 2017,Honda
+420,Ford Freestyle - 2018,PLATINUM,Bangalore,"₹6,94,899","17,804 kms ", Petrol , 2nd Owner, 2018,Ford
+421,Maruti Suzuki Swift ZXI - 2013,PLATINUM,Pune,"₹4,50,599","62,613 kms ", Petrol , 2nd Owner, 2013,Maruti
+422,Hyundai i20 Asta 1.2 - 2010,PLATINUM,Bangalore,"₹3,77,999","56,974 kms ", Petrol , 2nd Owner, 2010,Hyundai
+423,Datsun Redi GO T O  - 2021,PLATINUM,Bangalore,"₹4,91,499","1,405 kms ", Petrol , 1st Owner, 2021,Datsun
+424,Maruti Suzuki Omni - 2008,GOLD,Chennai,"₹89,000","85,000 kms ", Petrol,, 2008,Maruti
+425,Hyundai Creta 1.6 SX Plus Petrol AT - 2020,GOLD,Bangalore,"₹18,65,000","8,000 kms ", Petrol,, 2020,Hyundai
+426,Datsun GO T - 2014,GOLD,Kolkata,"₹2,35,000","29,000 kms ", Petrol,, 2014,Datsun
+427,Mahindra Bolero B6 O  - 2020,GOLD,Bangalore,"₹10,25,000","22,000 kms ", Diesel,, 2020,Mahindra
+428,Volkswagen Polo GT TSI - 2014,GOLD,Pune,"₹4,50,000","1,18,000 kms ", Petrol,, 2014,Volkswagen
+429,Hyundai Creta 1.6 SX PLUS DIESEL - 2020,GOLD,Pondicherry,"₹15,75,000","23,000 kms ", Diesel,, 2020,Hyundai
+430,Maruti Suzuki Swift Dzire VDi - 2018,GOLD,Pondicherry,"₹6,95,000","34,000 kms ", Diesel,, 2018,Maruti
+431,Honda Civic 1.8V MT - 2008,GOLD,Hyderabad,"₹2,95,000","87,000 kms ", Petrol,, 2008,Honda
+432,Hyundai Verna - 2018,PLATINUM,Pune,"₹11,71,199","36,965 kms ", Petrol , 2nd Owner, 2018,Hyundai
+433,Honda WR V - 2017,PLATINUM,Pune,"₹6,25,699","25,526 kms ", Petrol , 1st Owner, 2017,Honda
+434,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2016,PLATINUM,Chennai,"₹4,53,199","20,235 kms ", Petrol , 1st Owner, 2016,Hyundai
+435,Maruti Suzuki Vitara Brezza ZDi - 2018,PLATINUM,Chennai,"₹8,50,499","61,064 kms ", Diesel , 2nd Owner, 2018,Maruti
+436,Maruti Suzuki Ignis DELTA 1.2 K12 - 2018,PLATINUM,Chennai,"₹5,48,699","12,558 kms ", Petrol , 2nd Owner, 2018,Maruti
+437,Maruti Suzuki Alto K10 VXi AMT - 2019,PLATINUM,Bangalore,"₹4,98,799","14,179 kms ", Petrol , 1st Owner, 2019,Maruti
+438,Honda City VX CVT Petrol - 2020,PLATINUM,Chennai,"₹13,77,199","20,379 kms ", Petrol , 1st Owner, 2020,Honda
+439,Ford Ecosport - 2017,PLATINUM,Pune,"₹7,72,799","42,837 kms ", Petrol , 2nd Owner, 2017,Ford
+440,Hyundai Elite i20 Sportz 1.2 - 2016,PLATINUM,Chennai,"₹5,72,599","67,473 kms ", Petrol , 2nd Owner, 2016,Hyundai
+441,Honda City V MT PETROL - 2016,PLATINUM,Bangalore,"₹7,74,899","27,576 kms ", Petrol , 1st Owner, 2016,Honda
+442,Maruti Suzuki S Cross - 2017,PLATINUM,Pune,"₹8,85,099","80,900 kms ", Diesel , 2nd Owner, 2017,Maruti
+443,Hyundai Elite i20 - 2017,PLATINUM,Bangalore,"₹6,87,499","1,00,934 kms ", Diesel , 2nd Owner, 2017,Hyundai
+444,Hyundai Elite i20 Sportz 1.2 - 2015,PLATINUM,Bangalore,"₹5,67,799","29,060 kms ", Petrol , 2nd Owner, 2015,Hyundai
+445,Hyundai i10 Magna 1.1 iRDE2 - 2016,PLATINUM,Chennai,"₹3,98,499","36,129 kms ", Petrol , 2nd Owner, 2016,Hyundai
+446,Maruti Suzuki Swift VDi - 2011,PLATINUM,Pune,"₹3,48,499","1,56,442 kms ", Diesel , 2nd Owner, 2011,Maruti
+447,Maruti Suzuki Wagon R 1.0 VXi AMT - 2018,PLATINUM,Chennai,"₹5,20,899","48,710 kms ", Petrol , 2nd Owner, 2018,Maruti
+448,Ford Figo Diesel LXI - 2012,GOLD,Bangalore,"₹2,25,000","80,000 kms ", Diesel,, 2012,Ford
+449,Honda City SV Petrol - 2015,GOLD,Bangalore,"₹7,25,000","57,000 kms ", Petrol,, 2015,Honda
+450,Honda CRV - 2004,GOLD,Hyderabad,"₹2,40,000","97,000 kms ", LPG,, 2004,Honda
+451,Honda Amaze 1.2 VX AT i VTEC - 2013,GOLD,Pune,"₹4,25,000","44,000 kms ", Petrol,, 2013,Honda
+452,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2015,GOLD,Pune,"₹5,00,000","57,000 kms ", Petrol,, 2015,Maruti
+453,Maruti Suzuki Swift VXI BSIII - 2008,GOLD,Pune,"₹2,50,000","77,000 kms ", Petrol,, 2008,Maruti
+454,Maruti Suzuki Ritz Zxi BS IV - 2013,GOLD,Pune,"₹3,60,000","81,000 kms ", Petrol,, 2013,Maruti
+455,Hyundai Creta 1.6 SX Plus Petrol - 2016,GOLD,Pune,"₹9,75,000","41,000 kms ", Petrol,, 2016,Hyundai
+456,Ford Ecosport - 2018,PLATINUM,Pune,"₹9,16,799","20,619 kms ", Petrol , 2nd Owner, 2018,Ford
+457,Maruti Suzuki Wagon R 1.0 LXi CNG - 2018,PLATINUM,Pune,"₹4,80,999","51,149 kms ", Petrol + CNG , 2nd Owner, 2018,Maruti
+458,Tata Nexon - 2020,PLATINUM,Bangalore,"₹10,43,299","12,978 kms ", Petrol , 1st Owner, 2020,Tata
+459,Honda City V MT PETROL - 2016,PLATINUM,Bangalore,"₹7,87,399","40,025 kms ", Petrol , 1st Owner, 2016,Honda
+460,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2016,PLATINUM,Bangalore,"₹5,01,599","63,075 kms ", Petrol , 2nd Owner, 2016,Hyundai
+461,Honda Brio - 2012,PLATINUM,Chennai,"₹3,62,999","78,724 kms ", Petrol , 2nd Owner, 2012,Honda
+462,Renault Kwid - 2018,PLATINUM,Pune,"₹4,03,199","12,257 kms ", Petrol , 2nd Owner, 2018,Renault
+463,Hyundai Venue - 2019,PLATINUM,Bangalore,"₹10,22,599","26,890 kms ", Diesel , 2nd Owner, 2019,Hyundai
+464,Nissan Micra Active - 2018,PLATINUM,Chennai,"₹4,83,199","20,485 kms ", Petrol , 2nd Owner, 2018,Nissan
+465,Hyundai EON Era Plus - 2017,PLATINUM,Chennai,"₹3,21,399","69,220 kms ", Petrol , 2nd Owner, 2017,Hyundai
+466,Maruti Suzuki Alto 800 Vxi - 2017,PLATINUM,Chennai,"₹3,07,999","41,900 kms ", Petrol , 2nd Owner, 2017,Maruti
+467,Maruti Suzuki Eeco - 2019,PLATINUM,Bangalore,"₹4,78,599","11,944 kms ", Petrol , 2nd Owner, 2019,Maruti
+468,Maruti Suzuki Wagon R 1.0 Vxi - 2015,PLATINUM,Chennai,"₹4,05,199","66,143 kms ", Petrol , 2nd Owner, 2015,Maruti
+469,Maruti Suzuki Alto 800 Vxi - 2018,PLATINUM,Chennai,"₹3,14,999","16,563 kms ", Petrol , 2nd Owner, 2018,Maruti
+470,Hyundai Elite i20 - 2016,PLATINUM,Pune,"₹6,84,599","14,460 kms ", Petrol , 2nd Owner, 2016,Hyundai
+471,Maruti Suzuki Alto K10 Vxi O AMT - 2018,PLATINUM,Bangalore,"₹4,13,099","47,120 kms ", Petrol , 2nd Owner, 2018,Maruti
+472,Chevrolet Cruze LTZ - 2011,GOLD,Bangalore,"₹3,45,000","1,15,000 kms ", Diesel,, 2011,Chevrolet
+473,Renault Scala RxZ Diesel - 2013,GOLD,Bangalore,"₹3,85,000","79,200 kms ", Diesel,, 2013,Renault
+474,Hyundai Verna 1.6 CRDI SX O AT - 2016,GOLD,Chennai,"₹6,90,000","48,877 kms ", Diesel,, 2016,Hyundai
+475,Honda WRV VX MT Petrol - 2019,GOLD,Mumbai,"₹8,25,000","32,000 kms ", Petrol,, 2019,Honda
+476,Toyota Corolla Altis 1.8 G AT - 2018,GOLD,Mumbai,"₹14,25,000","51,000 kms ", Petrol,, 2018,Toyota
+477,Maruti Suzuki Alto Vxi 1.1 - 2014,GOLD,Udaipur,"₹2,95,000","56,000 kms ", Petrol,, 2014,Maruti
+478,Tata Tiago Revotorq XZ - 2022,GOLD,Pune,"₹7,00,000","14,000 kms ", Petrol,, 2022,Tata
+479,Chevrolet Aveo - 2006,GOLD,Chennai,"₹69,000","79,000 kms ", Petrol,, 2006,Chevrolet
+480,Maruti Suzuki Swift VDi ABS - 2016,PLATINUM,Chennai,"₹5,01,199","1,47,960 kms ", Diesel , 2nd Owner, 2016,Maruti
+481,Maruti Suzuki Wagon R 1.0 Vxi - 2014,PLATINUM,Pune,"₹3,57,399","38,766 kms ", Petrol , 2nd Owner, 2014,Maruti
+482,Maruti Suzuki Eeco - 2019,PLATINUM,Bangalore,"₹4,94,199","8,409 kms ", Petrol , 2nd Owner, 2019,Maruti
+483,Renault Kwid RxL - 2019,PLATINUM,Bangalore,"₹4,24,099","20,718 kms ", Petrol , 2nd Owner, 2019,Renault
+484,Maruti Suzuki Baleno - 2017,PLATINUM,Chennai,"₹5,98,299","51,125 kms ", Petrol , 1st Owner, 2017,Maruti
+485,Hyundai Grand i10 SportZ Edition - 2014,PLATINUM,Bangalore,"₹4,77,599","64,459 kms ", Petrol , 1st Owner, 2014,Hyundai
+486,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2014,PLATINUM,Pune,"₹4,47,599","29,467 kms ", Petrol , 1st Owner, 2014,Maruti
+487,Tata Nexon - 2017,PLATINUM,Pune,"₹7,03,999","18,019 kms ", Petrol , 1st Owner, 2017,Tata
+488,Maruti Suzuki Celerio Vxi - 2016,PLATINUM,Chennai,"₹4,16,099","40,710 kms ", Petrol , 2nd Owner, 2016,Maruti
+489,Maruti Suzuki S Presso - 2021,PLATINUM,Chennai,"₹5,59,099","1,956 kms ", Petrol , 2nd Owner, 2021,Maruti
+490,Renault Kwid - 2017,PLATINUM,Bangalore,"₹4,63,099","44,696 kms ", Petrol,, 2017,Renault
+491,Hyundai Grand i10 Magna AT 1.2 Kappa VTVT - 2018,PLATINUM,Bangalore,"₹5,27,099","21,531 kms ", Petrol , 3rd Owner, 2018,Hyundai
+492,Kia Seltos - 2019,PLATINUM,Pune,"₹15,17,999","20,989 kms ", Petrol , 2nd Owner, 2019,Kia
+493,Hyundai i20 - 2013,PLATINUM,Chennai,"₹4,31,099","33,901 kms ", Petrol , 1st Owner, 2013,Hyundai
+494,Hyundai Grand i10 Asta 1.2 Kappa VTVT - 2018,PLATINUM,Chennai,"₹5,39,799","54,696 kms ", Petrol , 2nd Owner, 2018,Hyundai
+495,MG Motors Hector Sharp 2.0 Diesel - 2019,PLATINUM,Bangalore,"₹18,00,299","11,292 kms ", Diesel , 2nd Owner, 2019,MG
+496,Renault Duster 110 PS RxZ Diesel Plus - 2020,GOLD,Pune,"₹10,25,000","14,000 kms ", Diesel,, 2020,Renault
+497,Mahindra Logan - 2007,GOLD,Chennai,"₹1,29,000","97,000 kms ", Diesel,, 2007,Mahindra
+498,Tata Indigo CS - 2007,GOLD,Chennai,"₹79,000","85,000 kms ", Diesel,, 2007,Tata
+499,Ford EcoSport Trend 1.5L TDCi - 2014,GOLD,Pune,"₹5,25,000","50,000 kms ", Diesel,, 2014,Ford
+500,Honda Jazz VX MT - 2016,GOLD,Pune,"₹5,65,000","53,000 kms ", Petrol,, 2016,Honda
+501,Maruti Suzuki Wagon R VXI BS IV - 2016,GOLD,Pune,"₹4,35,000","27,000 kms ", Petrol,, 2016,Maruti
+502,Maruti Suzuki Wagon R 1.0 VXi AMT O - 2016,GOLD,Pune,"₹4,25,000","52,000 kms ", Petrol,, 2016,Maruti
+503,Honda City ZX VTEC - 2007,GOLD,Chennai,"₹2,50,000","1,49,000 kms ", Petrol,, 2007,Honda
+504,Hyundai Grand i10 SPORTZ O 1.2 AT VTVT - 2017,PLATINUM,Bangalore,"₹6,16,599","27,317 kms ", Petrol , 2nd Owner, 2017,Hyundai
+505,Hyundai Xcent - 2014,PLATINUM,Bangalore,"₹4,66,599","79,784 kms ", Petrol , 2nd Owner, 2014,Hyundai
+506,Audi Q3 - 2015,PLATINUM,Chennai,"₹16,56,999","73,656 kms ", Diesel , 1st Owner, 2015,Audi
+507,Tata Tiago - 2018,PLATINUM,Bangalore,"₹5,62,999","27,664 kms ", Petrol , 1st Owner, 2018,Tata
+508,Hyundai Verna FLUIDIC 1.6 EX VTVT - 2012,PLATINUM,Bangalore,"₹4,88,899","41,898 kms ", Petrol , 2nd Owner, 2012,Hyundai
+509,Maruti Suzuki S Presso VXi Plus - 2021,PLATINUM,Chennai,"₹5,14,599","4,889 kms ", Petrol , 2nd Owner, 2021,Maruti
+510,Hyundai Grand i10 - 2015,PLATINUM,Chennai,"₹4,95,299","39,836 kms ", Petrol , 1st Owner, 2015,Hyundai
+511,Honda Jazz - 2016,PLATINUM,Bangalore,"₹7,52,399","16,108 kms ", Petrol , 2nd Owner, 2016,Honda
+512,Hyundai Grand i10 - 2015,PLATINUM,Bangalore,"₹4,74,799","46,111 kms ", Petrol , 2nd Owner, 2015,Hyundai
+513,Maruti Suzuki Ciaz - 2018,PLATINUM,Bangalore,"₹8,49,599","23,761 kms ", Petrol , 2nd Owner, 2018,Maruti
+514,Maruti Suzuki S Cross Zeta 1.3 - 2016,PLATINUM,Bangalore,"₹6,63,199","1,46,782 kms ", Diesel , 1st Owner, 2016,Maruti
+515,Hyundai Grand i10 ASTA 1.2 AT VTVT - 2016,PLATINUM,Bangalore,"₹5,66,699","26,597 kms ", Petrol , 1st Owner, 2016,Hyundai
+516,Maruti Suzuki Eeco - 2018,PLATINUM,Chennai,"₹4,71,199","12,323 kms ", Petrol , 2nd Owner, 2018,Maruti
+517,Renault Kwid RXL - 2017,PLATINUM,Bangalore,"₹3,85,499","3,230 kms ", Petrol , 1st Owner, 2017,Renault
+518,Maruti Suzuki Swift Vxi - 2016,PLATINUM,Chennai,"₹4,91,599","62,059 kms ", Petrol , 3rd Owner, 2016,Maruti
+519,Maruti Suzuki Baleno - 2019,PLATINUM,Bangalore,"₹7,25,699","28,188 kms ", Petrol , 2nd Owner, 2019,Maruti
+520,Maruti Suzuki Wagon R VXi BS III - 2013,GOLD,Pune,"₹3,50,000","55,000 kms ", Petrol,, 2013,Maruti
+521,Maruti Suzuki SX4 Zxi with Leather BSIII - 2009,GOLD,Pune,"₹2,10,000","79,000 kms ", Petrol,, 2009,Maruti
+522,Tata Tiago XZA 1.2 REVOTRON - 2017,GOLD,Pune,"₹4,60,000","55,000 kms ", Petrol,, 2017,Tata
+523,BMW 5 Series 523i Sedan - 2010,GOLD,NaviMumbai,"₹9,90,000","49,000 kms ", Petrol , 3rd Owner, 2010,BMW
+524,Tata Indica Vista Aura 1.2 Safire BSIV - 2009,GOLD,Bangalore,"₹1,90,000","56,000 kms ", Petrol,, 2009,Tata
+525,Maruti Suzuki Ertiga ZXI Plus - 2014,GOLD,Pune,"₹6,25,000","83,000 kms ", Petrol,, 2014,Maruti
+526,Maruti Suzuki Baleno Zeta 1.2 - 2016,GOLD,Chennai,"₹5,90,000","39,226 kms ", Petrol,, 2016,Maruti
+527,Maruti Suzuki Swift ZXI ABS - 2019,GOLD,Chennai,"₹7,40,000","33,901 kms ", Petrol,, 2019,Maruti
+528,Hyundai Grand i10 - 2019,PLATINUM,Bangalore,"₹6,40,099","32,877 kms ", Petrol , 2nd Owner, 2019,Hyundai
+529,Maruti Suzuki Ignis - 2019,PLATINUM,Chennai,"₹5,75,099","17,283 kms ", Petrol , 2nd Owner, 2019,Maruti
+530,Maruti Suzuki Ertiga ZDI Plus SHVS - 2018,PLATINUM,Bangalore,"₹10,81,899","86,033 kms ", Diesel , 1st Owner, 2018,Maruti
+531,Volkswagen Polo - 2018,PLATINUM,Bangalore,"₹7,26,399","17,419 kms ", Petrol , 2nd Owner, 2018,Volkswagen
+532,Maruti Suzuki Eeco - 2019,PLATINUM,Bangalore,"₹4,80,399","24,416 kms ", Petrol , 2nd Owner, 2019,Maruti
+533,Renault Kwid RxL - 2017,PLATINUM,Bangalore,"₹3,69,599","26,700 kms ", Petrol , 2nd Owner, 2017,Renault
+534,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2014,PLATINUM,Bangalore,"₹4,51,399","28,979 kms ", Petrol , 1st Owner, 2014,Maruti
+535,Maruti Suzuki Eeco 5 STR WITH AC PLUSHTR - 2019,PLATINUM,Bangalore,"₹4,94,099","27,150 kms ", Petrol , 1st Owner, 2019,Maruti
+536,Ford EcoSport - 2020,PLATINUM,Bangalore,"₹12,40,899","3,195 kms ", Petrol , 1st Owner, 2020,Ford
+537,Hyundai Eon Era Plus - 2013,PLATINUM,Bangalore,"₹2,86,199","26,761 kms ", Petrol , 1st Owner, 2013,Hyundai
+538,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2017,PLATINUM,Bangalore,"₹5,09,399","71,992 kms ", Petrol , 2nd Owner, 2017,Hyundai
+539,Maruti Suzuki Alto K10 Vxi - 2016,PLATINUM,Bangalore,"₹3,78,099","27,239 kms ", Petrol , 2nd Owner, 2016,Maruti
+540,Honda Jazz - 2016,PLATINUM,Chennai,"₹5,86,699","36,244 kms ", Petrol , 2nd Owner, 2016,Honda
+541,Maruti Suzuki Vitara Brezza - 2019,PLATINUM,Pune,"₹9,06,899","69,807 kms ", Diesel , 2nd Owner, 2019,Maruti
+542,Maruti Suzuki Vitara Brezza ZDi - 2019,PLATINUM,Pune,"₹8,82,199","31,803 kms ", Diesel , 2nd Owner, 2019,Maruti
+543,Honda Jazz - 2015,PLATINUM,Bangalore,"₹5,07,999","92,373 kms ", Petrol , 1st Owner, 2015,Honda
+544,Toyota Etios GD - 2013,GOLD,Gurgaon,"₹2,40,000","2,00,000 kms ", Diesel,, 2013,Toyota
+545,Ford EcoSport Titanium Plus 1.5L TDCi - 2016,GOLD,Bangalore,"₹8,25,000","46,000 kms ", Diesel,, 2016,Ford
+546,Hyundai Creta 1.6 SX PLUS DIESEL - 2017,GOLD,Bangalore,Ask For Price,"72,000 kms ", Diesel,, 2017,Hyundai
+547,Toyota Innova 2.5 VX 7 STR - 2011,GOLD,Bangalore,"₹8,45,000","1,79,000 kms ", Diesel,, 2011,Toyota
+548,Hyundai Grand i10 MAGNA 1.2 VTVT - 2016,GOLD,Bangalore,"₹4,75,000","59,000 kms ", Petrol,, 2016,Hyundai
+549,Hyundai Creta 1.6 SX PLUS DIESEL - 2017,GOLD,Bangalore,"₹13,25,000","72,000 kms ", Diesel,, 2017,Hyundai
+550,Hyundai Creta 1.6 SX - 2017,GOLD,Bangalore,"₹12,45,000","56,000 kms ", Diesel,, 2017,Hyundai
+551,Mahindra XUV 500 W8 - 2014,GOLD,Bangalore,"₹9,75,000","87,000 kms ", Diesel,, 2014,Mahindra
+552,Maruti Suzuki Vitara Brezza - 2016,PLATINUM,Pune,"₹7,82,999","59,612 kms ", Diesel , 2nd Owner, 2016,Maruti
+553,Ford Ecosport - 2014,PLATINUM,Bangalore,"₹6,23,399","30,212 kms ", Petrol , 2nd Owner, 2014,Ford
+554,Maruti Suzuki Ignis - 2018,PLATINUM,Chennai,"₹5,48,699","18,113 kms ", Petrol , 2nd Owner, 2018,Maruti
+555,Maruti Suzuki Alto K10 VXi Opt - 2018,PLATINUM,Bangalore,"₹3,97,099","48,435 kms ", Petrol , 2nd Owner, 2018,Maruti
+556,Maruti Suzuki Wagon R 1.0 Vxi - 2015,PLATINUM,Bangalore,"₹3,92,099","29,297 kms ", Petrol , 1st Owner, 2015,Maruti
+557,Maruti Suzuki Wagon R 1.0 Vxi - 2012,PLATINUM,Bangalore,"₹3,54,599","53,525 kms ", Petrol , 2nd Owner, 2012,Maruti
+558,Honda Amaze - 2018,PLATINUM,Bangalore,"₹7,19,599","15,890 kms ", Petrol , 1st Owner, 2018,Honda
+559,Honda WR V 1.2 i VTEC VX MT - 2019,PLATINUM,Bangalore,"₹8,34,099","31,694 kms ", Petrol , 1st Owner, 2019,Honda
+560,Maruti Suzuki Alto K10 Vxi - 2017,PLATINUM,Chennai,"₹3,65,899","36,279 kms ", Petrol , 2nd Owner, 2017,Maruti
+561,Hyundai i10 Sportz 1.1 iRDE2 - 2015,PLATINUM,Chennai,"₹4,00,899","33,349 kms ", Petrol , 1st Owner, 2015,Hyundai
+562,Toyota Etios Liva G - 2012,PLATINUM,Chennai,"₹3,20,199","1,03,182 kms ", Petrol , 1st Owner, 2012,Toyota
+563,Hyundai Xcent S 1.2 - 2016,PLATINUM,Chennai,"₹4,57,399","63,048 kms ", Petrol , 2nd Owner, 2016,Hyundai
+564,Maruti Suzuki Baleno - 2017,PLATINUM,Chennai,"₹7,17,699","26,358 kms ", Petrol , 2nd Owner, 2017,Maruti
+565,Maruti Suzuki Wagon R 1.0 Vxi - 2017,PLATINUM,Chennai,"₹4,17,299","18,932 kms ", Petrol , 1st Owner, 2017,Maruti
+566,Maruti Suzuki Alto 800 Vxi - 2018,PLATINUM,Pune,"₹3,23,199","20,369 kms ", Petrol , 2nd Owner, 2018,Maruti
+567,Honda Jazz 1.2 V MT - 2016,PLATINUM,Bangalore,"₹6,33,999","58,769 kms ", Petrol , 1st Owner, 2016,Honda
+568,Ford EcoSport Trend 1.5 TDCi - 2016,GOLD,Pune,"₹6,00,000","52,000 kms ", Diesel,, 2016,Ford
+569,Volkswagen Polo Highline Exquisite P - 2019,GOLD,Bangalore,"₹7,95,000","15,000 kms ", Petrol,, 2019,Volkswagen
+570,Maruti Suzuki Vitara Brezza ZDi - 2019,GOLD,Pune,"₹10,00,000","70,000 kms ", Diesel,, 2019,Maruti
+571,Hyundai i20 Asta 1.2 O - 2012,GOLD,Pune,"₹3,85,000","52,000 kms ", Petrol,, 2012,Hyundai
+572,Hyundai i20 Asta 1.2 - 2013,GOLD,Pune,"₹3,95,000","32,000 kms ", Petrol,, 2013,Hyundai
+573,Toyota Fortuner 3.0 4x4 AT - 2015,GOLD,Chennai,"₹17,50,000","1,55,000 kms ", Diesel,, 2015,Toyota
+574,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2017,GOLD,Chennai,"₹6,00,000","50,000 kms ", Petrol,, 2017,Maruti
+575,Mahindra Verito Executive D4 - 2015,GOLD,Kurnool,"₹3,30,000","1,20,000 kms ", Diesel,, 2015,Mahindra
+576,Hyundai Creta 1.6 SX CRDI - 2017,PLATINUM,Chennai,"₹8,75,999","1,23,920 kms ", Diesel , 1st Owner, 2017,Hyundai
+577,Hyundai EON - 2016,PLATINUM,Pune,"₹3,09,399","17,900 kms ", Petrol , 3rd Owner, 2016,Hyundai
+578,Maruti Suzuki Baleno DELTA 1.2 K12 - 2017,PLATINUM,Bangalore,"₹6,58,999","31,041 kms ", Petrol , 1st Owner, 2017,Maruti
+579,Maruti Suzuki Wagon R 1.0 VXi AMT - 2018,PLATINUM,Chennai,"₹5,14,099","61,875 kms ", Petrol , 2nd Owner, 2018,Maruti
+580,Hyundai Elite i20 Asta 1.2 - 2016,PLATINUM,Chennai,"₹6,72,899","29,210 kms ", Petrol , 2nd Owner, 2016,Hyundai
+581,Mahindra TUV300 - 2016,PLATINUM,Pune,"₹6,20,099","35,826 kms ", Diesel , 1st Owner, 2016,Mahindra
+582,Ford Freestyle - 2019,PLATINUM,Bangalore,"₹7,33,999","29,364 kms ", Petrol , 2nd Owner, 2019,Ford
+583,Renault Triber - 2021,PLATINUM,Chennai,"₹6,64,699","16,304 kms ", Petrol , 1st Owner, 2021,Renault
+584,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2015,PLATINUM,Chennai,"₹4,54,299","95,731 kms ", Petrol , 2nd Owner, 2015,Maruti
+585,Maruti Suzuki Swift Lxi - 2010,PLATINUM,Bangalore,"₹3,57,499","31,011 kms ", Petrol , 2nd Owner, 2010,Maruti
+586,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2014,PLATINUM,Pune,"₹4,47,599","30,601 kms ", Petrol , 1st Owner, 2014,Maruti
+587,Maruti Suzuki S Presso Vxi O  - 2019,PLATINUM,Bangalore,"₹4,22,299","14,568 kms ", Petrol , 1st Owner, 2019,Maruti
+588,Toyota Etios V - 2012,PLATINUM,Bangalore,"₹4,49,699","89,559 kms ", Petrol , 2nd Owner, 2012,Toyota
+589,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2014,PLATINUM,Bangalore,"₹4,93,499","48,834 kms ", Petrol , 2nd Owner, 2014,Hyundai
+590,Hyundai Elite i20 Asta 1.4 CRDI - 2014,PLATINUM,Chennai,"₹6,05,699","74,190 kms ", Diesel , 2nd Owner, 2014,Hyundai
+591,Ford EcoSport Titanium 1.5 Ti VCT AT - 2016,PLATINUM,Bangalore,"₹7,55,099","43,077 kms ", Petrol , 2nd Owner, 2016,Ford
+592,Maruti Suzuki Swift VXi 1.2 ABS BS IV - 2015,GOLD,Chennai,"₹4,90,000","58,000 kms ", Petrol,, 2015,Maruti
+593,Honda City 1.5 S MT - 2011,GOLD,Chennai,"₹4,50,000","99,000 kms ", Petrol,, 2011,Honda
+594,Tata Indigo CS LX TDI - 2009,GOLD,Bangalore,"₹1,60,000","88,500 kms ", Diesel,, 2009,Tata
+595,Chevrolet Beat LT Diesel - 2012,GOLD,Bangalore,"₹2,15,000","85,000 kms ", Diesel,, 2012,Chevrolet
+596,Honda City ZX CVT - 2019,GOLD,Pune,"₹11,50,000","29,000 kms ", Petrol,, 2019,Honda
+597,Maruti Suzuki Wagon R 1.0 VXi AMT - 2015,GOLD,Bangalore,"₹3,49,000","65,000 kms ", Petrol,, 2015,Maruti
+598,MG Motors Hector Sharp 1.5 DCT Petrol - 2020,GOLD,Surat,"₹14,01,000","16,000 kms ", Petrol , 1st Owner, 2020,MG
+599,MG Motors Hector Sharp 1.5 DCT Petrol - 2020,GOLD,Ahmedabad,"₹14,01,000","16,000 kms ", Petrol , 1st Owner, 2020,MG
+600,Maruti Suzuki Eeco - 2018,PLATINUM,Bangalore,"₹4,32,699","17,981 kms ", Petrol , 2nd Owner, 2018,Maruti
+601,Maruti Suzuki Eeco - 2018,PLATINUM,Chennai,"₹4,18,599","20,780 kms ", Petrol , 2nd Owner, 2018,Maruti
+602,Maruti Suzuki Alto 800 Lxi - 2014,PLATINUM,Chennai,"₹2,75,799","56,719 kms ", Petrol , 2nd Owner, 2014,Maruti
+603,Maruti Suzuki Wagon R 1.0 Vxi - 2015,PLATINUM,Bangalore,"₹4,56,199","31,108 kms ", Petrol , 2nd Owner, 2015,Maruti
+604,Honda City - 2016,PLATINUM,Chennai,"₹7,28,499","33,611 kms ", Petrol , 2nd Owner, 2016,Honda
+605,Maruti Suzuki Alto K10 - 2019,PLATINUM,Chennai,"₹4,31,599","43,700 kms ", Petrol , 2nd Owner, 2019,Maruti
+606,Maruti Suzuki Ignis - 2017,PLATINUM,Pune,"₹5,33,099","49,920 kms ", Petrol , 2nd Owner, 2017,Maruti
+607,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2014,PLATINUM,Bangalore,"₹4,51,399","57,338 kms ", Petrol , 1st Owner, 2014,Maruti
+608,Hyundai Venue S MT 1.2 KAPPA - 2020,PLATINUM,Bangalore,"₹8,40,699","23,096 kms ", Petrol , 1st Owner, 2020,Hyundai
+609,Maruti Suzuki Swift Vxi - 2016,PLATINUM,Chennai,"₹4,86,499","48,732 kms ", Petrol , 1st Owner, 2016,Maruti
+610,Honda City - 2012,PLATINUM,Pune,"₹4,50,199","67,924 kms ", Petrol , 1st Owner, 2012,Honda
+611,Maruti Suzuki Wagon R 1.0 Vxi - 2014,PLATINUM,Chennai,"₹4,18,999","30,418 kms ", Petrol , 2nd Owner, 2014,Maruti
+612,Honda City - 2014,PLATINUM,Chennai,"₹6,21,299","50,593 kms ", Petrol , 2nd Owner, 2014,Honda
+613,Hyundai i20 Active 1.2 S - 2016,PLATINUM,Chennai,"₹5,08,399","1,36,381 kms ", Petrol , 2nd Owner, 2016,Hyundai
+614,Maruti Suzuki Celerio VXi AMT - 2015,PLATINUM,Pune,"₹3,90,999","46,943 kms ", Petrol , 2nd Owner, 2015,Maruti
+615,Maruti Suzuki Swift ZXI - 2017,PLATINUM,Bangalore,"₹6,75,099","36,277 kms ", Petrol , 2nd Owner, 2017,Maruti
+616,BMW X5 xDrive30d Pure Experience 7 Seater - 2014,GOLD,Madurai,"₹36,00,000","1,10,000 kms ", Diesel,, 2014,BMW
+617,Kia Seltos HTX Plus 1.5 Diesel - 2021,GOLD,Surat,"₹15,01,000","5,600 kms ", Diesel , 1st Owner, 2021,Kia
+618,Maruti Suzuki Swift ZDI  - 2019,GOLD,Madurai,"₹8,25,000","44,000 kms ", Diesel,, 2019,Maruti
+619,Maruti Suzuki Ertiga ZXI Plus - 2019,GOLD,Madurai,"₹11,00,000","40,000 kms ", Petrol,, 2019,Maruti
+620,Kia Seltos HTX Plus 1.5 Diesel - 2021,GOLD,Ahmedabad,"₹15,01,000","5,600 kms ", Diesel , 1st Owner, 2021,Kia
+621,Maruti Suzuki Wagon R 1.0 LXi - 2007,GOLD,Ahmedabad,"₹1,30,000","45,000 kms ", Petrol , 2nd Owner, 2007,Maruti
+622,Toyota Etios GD - 2012,GOLD,Chennai,"₹3,25,000","1,50,000 kms ", Diesel,, 2012,Toyota
+623,Tata Indigo CS LX TDI BS III - 2016,GOLD,Chennai,"₹2,10,000","90,000 kms ", Diesel,, 2016,Tata
+624,Hyundai Xcent - 2015,PLATINUM,Chennai,"₹4,64,199","70,359 kms ", Diesel , 2nd Owner, 2015,Hyundai
+625,Hyundai EON Era Plus - 2017,PLATINUM,Chennai,"₹3,43,999","42,205 kms ", Petrol , 2nd Owner, 2017,Hyundai
+626,Nissan Micra - 2015,PLATINUM,Chennai,"₹4,41,499","60,539 kms ", Petrol , 2nd Owner, 2015,Nissan
+627,Maruti Suzuki Dzire Vxi - 2019,PLATINUM,Bangalore,"₹6,84,999","16,533 kms ", Petrol , 2nd Owner, 2019,Maruti
+628,Volkswagen Polo - 2017,PLATINUM,Pune,"₹8,15,399","26,596 kms ", Petrol , 2nd Owner, 2017,Volkswagen
+629,Hyundai Grand i10 - 2016,PLATINUM,Pune,"₹4,68,999","30,912 kms ", Petrol , 2nd Owner, 2016,Hyundai
+630,Hyundai Venue - 2019,PLATINUM,Bangalore,"₹11,94,799","17,951 kms ", Diesel , 2nd Owner, 2019,Hyundai
+631,Volkswagen Polo - 2015,PLATINUM,Bangalore,"₹5,99,899","36,928 kms ", Petrol , 2nd Owner, 2015,Volkswagen
+632,Maruti Suzuki Dzire VXI - 2018,PLATINUM,Bangalore,"₹7,10,199","22,854 kms ", Petrol , 2nd Owner, 2018,Maruti
+633,Hyundai i20 - 2014,PLATINUM,Bangalore,"₹4,74,399","89,156 kms ", Petrol , 1st Owner, 2014,Hyundai
+634,Maruti Suzuki Baleno - 2019,PLATINUM,Chennai,"₹7,01,399","41,999 kms ", Petrol , 2nd Owner, 2019,Maruti
+635,Honda City - 2017,PLATINUM,Chennai,"₹8,34,599","66,145 kms ", Petrol , 2nd Owner, 2017,Honda
+636,Maruti Suzuki Alto 800 Lxi - 2017,PLATINUM,Bangalore,"₹3,33,699","29,157 kms ", Petrol , 2nd Owner, 2017,Maruti
+637,Hyundai EON Era Plus - 2017,PLATINUM,Chennai,"₹3,49,799","33,882 kms ", Petrol , 2nd Owner, 2017,Hyundai
+638,Hyundai EON Era Plus - 2013,PLATINUM,Bangalore,"₹2,86,199","29,379 kms ", Petrol , 2nd Owner, 2013,Hyundai
+639,Maruti Suzuki Alto Vxi - 2019,PLATINUM,Bangalore,"₹3,86,699","17,352 kms ", Petrol , 2nd Owner, 2019,Maruti
+640,Toyota Fortuner 3.0 4x4 MT - 2011,GOLD,Chennai,"₹10,50,000","1,95,000 kms ", Diesel,, 2011,Toyota
+641,Maruti Suzuki Swift VXi 1.2 ABS BS IV - 2020,GOLD,Chennai,"₹6,95,000","16,189 kms ", Petrol,, 2020,Maruti
+642,Maruti Suzuki Swift Dzire VDi ABS - 2018,GOLD,Chennai,"₹6,95,000","41,341 kms ", Diesel,, 2018,Maruti
+643,Tata Tiago Revotorq XZ - 2019,GOLD,Pune,"₹5,50,000","62,000 kms ", Diesel,, 2019,Tata
+644,Maruti Suzuki Celerio ZXi Opt - 2019,GOLD,Chennai,Ask For Price,"32,000 kms ", Petrol , 1st Owner, 2019,Maruti
+645,Hyundai Creta 1.6 EX CRDI - 2021,GOLD,Delhi,"₹13,00,000","19,000 kms ", Diesel , 1st Owner, 2021,Hyundai
+646,Maruti Suzuki Ritz GENUS VXI - 2011,GOLD,Jaipur,"₹2,25,000","56,000 kms ", Petrol,, 2011,Maruti
+647,Maruti Suzuki Wagon R VXI BS IV - 2010,GOLD,Chennai,"₹2,50,000","91,000 kms ", Petrol,, 2010,Maruti
+648,Renault Triber - 2019,PLATINUM,Bangalore,"₹6,59,199","13,486 kms ", Petrol , 1st Owner, 2019,Renault
+649,Hyundai Grand i10 - 2018,PLATINUM,Chennai,"₹5,72,599","33,562 kms ", Petrol , 2nd Owner, 2018,Hyundai
+650,Hyundai Verna - 2018,PLATINUM,Pune,"₹11,71,199","13,691 kms ", Petrol , 2nd Owner, 2018,Hyundai
+651,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2017,PLATINUM,Bangalore,"₹5,57,199","31,980 kms ", Petrol , 2nd Owner, 2017,Hyundai
+652,Hyundai Grand i10 - 2016,PLATINUM,Chennai,"₹5,31,399","69,526 kms ", Petrol , 2nd Owner, 2016,Hyundai
+653,Maruti Suzuki Alto K10 VXi AMT - 2016,PLATINUM,Bangalore,"₹4,26,199","21,492 kms ", Petrol , 2nd Owner, 2016,Maruti
+654,Maruti Suzuki Celerio VXi AMT - 2016,PLATINUM,Chennai,"₹4,32,999","47,425 kms ", Petrol , 1st Owner, 2016,Maruti
+655,Hyundai Grand i10 Magna 1.2 Kappa VTVT - 2016,PLATINUM,Pune,"₹4,58,399","40,988 kms ", Petrol , 2nd Owner, 2016,Hyundai
+656,Jeep Compass - 2018,PLATINUM,Chennai,"₹14,65,199","51,983 kms ", Diesel , 2nd Owner, 2018,Jeep
+657,Maruti Suzuki Vitara Brezza VDi - 2018,PLATINUM,Pune,"₹7,83,099","69,376 kms ", Diesel , 2nd Owner, 2018,Maruti
+658,Maruti Suzuki Swift Vxi - 2017,PLATINUM,Chennai,"₹5,62,399","33,094 kms ", Petrol , 2nd Owner, 2017,Maruti
+659,Tata Tiago - 2017,PLATINUM,Bangalore,"₹5,29,199","26,237 kms ", Petrol , 3rd Owner, 2017,Tata
+660,Honda Brio - 2015,PLATINUM,Bangalore,"₹4,47,199","42,415 kms ", Petrol , 1st Owner, 2015,Honda
+661,Hyundai Creta - 2016,PLATINUM,Pune,"₹9,44,099","1,12,308 kms ", Diesel , 2nd Owner, 2016,Hyundai
+662,Maruti Suzuki Celerio ZXI - 2017,PLATINUM,Bangalore,"₹4,52,099","61,427 kms ", Petrol , 1st Owner, 2017,Maruti
+663,MG Motors Hector Sharp 2.0 Diesel - 2019,PLATINUM,Bangalore,"₹19,17,599","10,205 kms ", Diesel , 2nd Owner, 2019,MG
+664,Maruti Suzuki Alto LXi BS III - 2011,GOLD,Chennai,"₹1,79,000","67,000 kms ", Petrol,, 2011,Maruti
+665,Toyota Innova 2.5 V 7 STR - 2010,GOLD,Chennai,"₹7,75,000","1,60,000 kms ", Diesel,, 2010,Toyota
+666,Maruti Suzuki Ertiga - 2013,GOLD,Kolkata,"₹4,25,000","53,000 kms ", Diesel,, 2013,Maruti
+667,Maruti Suzuki Swift 2017 - 2017,GOLD,Hyderabad,"₹5,50,000","59,888 kms ", Petrol,, 2017,Maruti
+668,Maruti Suzuki Ciaz ALPHA 1.5 AT VTVT SHVS - 2018,GOLD,Hyderabad,"₹7,95,000","58,492 kms ", Petrol , 1st Owner, 2018,Maruti
+669,Honda City 1.5 V MT - 2011,GOLD,Kolkata,"₹3,50,888","45,000 kms ", Petrol , 1st Owner, 2011,Honda
+670,Maruti Suzuki Swift VDi - 2012,GOLD,Kolkata,"₹2,75,000","48,000 kms ", Diesel,, 2012,Maruti
+671,Tata Nexon XZ Plus - 2018,GOLD,Chennai,"₹8,90,000","34,000 kms ", Petrol,, 2018,Tata
+672,Maruti Suzuki Swift VDi ABS - 2017,PLATINUM,Chennai,"₹5,80,599","75,691 kms ", Diesel , 2nd Owner, 2017,Maruti
+673,Maruti Suzuki Alto 800 Lxi - 2013,PLATINUM,Chennai,"₹2,23,299","84,301 kms ", Petrol , 3rd Owner, 2013,Maruti
+674,Tata Tiago - 2019,PLATINUM,Bangalore,"₹6,00,399","38,346 kms ", Petrol , 2nd Owner, 2019,Tata
+675,Maruti Suzuki Alto K10 VXi Opt - 2017,PLATINUM,Chennai,"₹3,67,399","41,530 kms ", Petrol , 2nd Owner, 2017,Maruti
+676,Ford Ecosport - 2017,PLATINUM,Pune,"₹7,04,099","23,049 kms ", Petrol , 2nd Owner, 2017,Ford
+677,Maruti Suzuki Wagon R 1.0 Vxi - 2016,PLATINUM,Bangalore,"₹3,77,899","74,510 kms ", Petrol , 1st Owner, 2016,Maruti
+678,Maruti Suzuki Wagon R 1.0 VXi - 2016,PLATINUM,Bangalore,"₹4,58,699","20,141 kms ", Petrol , 2nd Owner, 2016,Maruti
+679,Ford Ecosport - 2015,PLATINUM,Chennai,"₹5,66,199","85,860 kms ", Petrol , 2nd Owner, 2015,Ford
+680,Maruti Suzuki Swift Dzire ZDI AMT - 2017,PLATINUM,Pune,"₹5,94,599","63,133 kms ", Diesel , 1st Owner, 2017,Maruti
+681,Maruti Suzuki Dzire Vxi - 2018,PLATINUM,Bangalore,"₹6,78,699","71,894 kms ", Petrol , 2nd Owner, 2018,Maruti
+682,Renault Duster - 2017,PLATINUM,Bangalore,"₹8,83,099","95,627 kms ", Diesel , 2nd Owner, 2017,Renault
+683,Ford Ecosport - 2014,PLATINUM,Pune,"₹5,78,099","75,324 kms ", Diesel , 2nd Owner, 2014,Ford
+684,Maruti Suzuki Alto K10 Vxi - 2015,PLATINUM,Pune,"₹3,05,899","64,611 kms ", Petrol , 2nd Owner, 2015,Maruti
+685,Maruti Suzuki Celerio ZXi AMT - 2016,PLATINUM,Bangalore,"₹4,57,399","77,128 kms ", Petrol , 3rd Owner, 2016,Maruti
+686,Maruti Suzuki Alto 800 Lxi - 2016,PLATINUM,Bangalore,"₹3,16,799","36,306 kms ", Petrol , 1st Owner, 2016,Maruti
+687,Hyundai i20 Asta 1.2 - 2011,PLATINUM,Bangalore,"₹3,99,999","83,803 kms ", Petrol , 1st Owner, 2011,Hyundai
+688,Mahindra XUV 500 W8 - 2018,GOLD,Mumbai,"₹11,00,000","44,000 kms ", Diesel , 1st Owner, 2018,Mahindra
+689,Mahindra KUV100 K4 Plus D 5 STR - 2018,GOLD,Chennai,"₹3,25,000","1,08,000 kms ", Diesel,, 2018,Mahindra
+690,Hyundai i20 Era Diesel - 2018,GOLD,Chennai,"₹5,50,000","55,000 kms ", Diesel,, 2018,Hyundai
+691,Honda City 1.5 V MT - 2020,GOLD,Kolkata,"₹9,90,888",700 kms , Petrol , 1st Owner, 2020,Honda
+692,Mahindra Jeep CL 500 MDI - 2020,GOLD,Ahmedabad,"₹4,80,000",25 kms , Diesel,, 2020,Mahindra
+693,Maruti Suzuki Gypsy King Hard Top - 2018,GOLD,Hyderabad,"₹5,00,000",258 kms , Petrol,, 2018,Maruti
+694,Maruti Suzuki Swift VDi - 2011,GOLD,Chennai,"₹3,90,000","81,152 kms ", Diesel,, 2011,Maruti
+695,Toyota Fortuner 3.0 AT 4X2 - 2015,GOLD,Chennai,"₹17,50,000","1,55,000 kms ", Diesel,, 2015,Toyota
+696,Hyundai i20 Asta 1.2 - 2011,PLATINUM,Bangalore,"₹3,99,999","83,803 kms ", Petrol , 1st Owner, 2011,Hyundai
+697,Hyundai Creta 1.6 SX Plus Petrol - 2017,PLATINUM,Chennai,"₹8,41,499","75,398 kms ", Petrol , 2nd Owner, 2017,Hyundai
+698,Honda City ZX CVT - 2017,PLATINUM,Bangalore,"₹10,16,899","42,317 kms ", Petrol , 1st Owner, 2017,Honda
+699,Maruti Suzuki Swift ZDI AMT - 2018,PLATINUM,Bangalore,"₹7,48,599","60,214 kms ", Diesel , 2nd Owner, 2018,Maruti
+700,Maruti Suzuki Swift VDi - 2017,PLATINUM,Pune,"₹6,22,099","58,861 kms ", Diesel , 2nd Owner, 2017,Maruti
+701,Volkswagen Polo - 2016,PLATINUM,Pune,"₹5,30,699","27,995 kms ", Petrol , 2nd Owner, 2016,Volkswagen
+702,Maruti Suzuki Celerio VXi AMT - 2017,PLATINUM,Bangalore,"₹4,71,899","61,018 kms ", Petrol , 2nd Owner, 2017,Maruti
+703,Maruti Suzuki Swift Vxi - 2015,PLATINUM,Chennai,"₹5,05,399","67,109 kms ", Petrol , 2nd Owner, 2015,Maruti
+704,Maruti Suzuki Wagon R 1.0 VXi Opt - 2017,PLATINUM,Chennai,"₹4,60,299","81,811 kms ", Petrol , 2nd Owner, 2017,Maruti
+705,Hyundai Verna 1.6 SX VTVT - 2017,PLATINUM,Pune,"₹6,83,999","27,357 kms ", Petrol , 1st Owner, 2017,Hyundai
+706,Volkswagen Polo HIGHLINE1.2L PETROL - 2018,PLATINUM,Bangalore,"₹6,39,699","53,293 kms ", Petrol , 3rd Owner, 2018,Volkswagen
+707,Maruti Suzuki Celerio - 2017,PLATINUM,Bangalore,"₹5,10,499","45,260 kms ", Petrol , 2nd Owner, 2017,Maruti
+708,Hyundai Venue - 2019,PLATINUM,Pune,"₹11,85,499","3,139 kms ", Petrol , 2nd Owner, 2019,Hyundai
+709,Maruti Suzuki Celerio VXi AMT - 2017,PLATINUM,Bangalore,"₹4,71,899","44,690 kms ", Petrol , 1st Owner, 2017,Maruti
+710,Hyundai Santro ASTA 1.1 MT - 2019,PLATINUM,Bangalore,"₹5,79,899","13,858 kms ", Petrol , 1st Owner, 2019,Hyundai
+711,Maruti Suzuki Alto 800 Lxi - 2017,PLATINUM,Bangalore,"₹3,33,699","25,256 kms ", Petrol , 2nd Owner, 2017,Maruti
+712,Hyundai i20 Magna 1.4 CRDI - 2012,GOLD,Bangalore,"₹3,85,000","94,000 kms ", Diesel,, 2012,Hyundai
+713,Maruti Suzuki Ciaz VDI SHVS - 2016,GOLD,Delhi,"₹5,90,000","44,100 kms ", Hybrid , 1st Owner, 2016,Maruti
+714,Honda Amaze 1.2 S i VTEC - 2016,GOLD,Kolkata,"₹3,75,888","47,000 kms ", Petrol , 1st Owner, 2016,Honda
+715,Hyundai Santa Fe 4 WD AT - 2012,GOLD,Mumbai,"₹7,75,000","1,26,000 kms ", Diesel,, 2012,Hyundai
+716,Mahindra XUV 500 W8 - 2015,GOLD,Kolkata,"₹7,78,888","46,000 kms ", Diesel , 1st Owner, 2015,Mahindra
+717,Audi Q5 2.0 TDI quattro Premium Plus - 2014,GOLD,Mumbai,"₹18,50,000","75,000 kms ", Diesel,, 2014,Audi
+718,Mercedes Benz GLE Coupe 450 AMG - 2019,GOLD,Mumbai,"₹75,00,000","35,000 kms ", Petrol,, 2019,Mercedes
+719,Volvo XC60 D3 Kinetic - 2012,GOLD,Mumbai,"₹17,50,000","86,000 kms ", Diesel , 2nd Owner, 2012,Volvo
+720,Volkswagen Polo COMFORTLINE 1.2L PETROL - 2017,PLATINUM,Bangalore,"₹5,82,899","15,227 kms ", Petrol , 1st Owner, 2017,Volkswagen
+721,Volkswagen Polo - 2014,PLATINUM,Chennai,"₹4,14,099","87,375 kms ", Diesel , 1st Owner, 2014,Volkswagen
+722,Maruti Suzuki Eeco - 2020,PLATINUM,Chennai,"₹5,16,599","7,679 kms ", Petrol , 2nd Owner, 2020,Maruti
+723,Maruti Suzuki Alto K10 VXi - 2016,PLATINUM,Bangalore,"₹3,66,299","48,378 kms ", Petrol , 1st Owner, 2016,Maruti
+724,Maruti Suzuki Wagon R 1.0 Vxi - 2014,PLATINUM,Chennai,"₹3,75,899","54,645 kms ", Petrol , 1st Owner, 2014,Maruti
+725,Maruti Suzuki Eeco - 2019,PLATINUM,Chennai,"₹4,93,899","7,211 kms ", Petrol , 1st Owner, 2019,Maruti
+726,Datsun Redi GO - 2017,PLATINUM,Bangalore,"₹3,11,399","37,217 kms ", Petrol , 2nd Owner, 2017,Datsun
+727,Maruti Suzuki Eeco 5 STR WITH AC PLUSHTR - 2019,PLATINUM,Chennai,"₹4,93,899","32,372 kms ", Petrol , 1st Owner, 2019,Maruti
+728,Maruti Suzuki Wagon R 1.0 Vxi - 2018,PLATINUM,Chennai,"₹5,01,999","37,947 kms ", Petrol , 2nd Owner, 2018,Maruti
+729,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2014,PLATINUM,Pune,"₹4,09,399","51,886 kms ", Petrol , 2nd Owner, 2014,Hyundai
+730,Toyota Innova Crysta 2.4 VX 8 STR - 2018,PLATINUM,Pune,"₹17,37,899","43,187 kms ", Diesel , 2nd Owner, 2018,Toyota
+731,Hyundai i20 Active 1.4 SX - 2015,PLATINUM,Pune,"₹5,83,999","33,616 kms ", Diesel , 1st Owner, 2015,Hyundai
+732,Volkswagen Vento - 2015,PLATINUM,Chennai,"₹6,54,299","91,087 kms ", Diesel , 1st Owner, 2015,Volkswagen
+733,Ford Ecosport - 2018,PLATINUM,Bangalore,"₹9,86,699","26,372 kms ", Petrol , 2nd Owner, 2018,Ford
+734,Maruti Suzuki Celerio VXi - 2014,PLATINUM,Bangalore,"₹4,14,199","58,762 kms ", Petrol , 1st Owner, 2014,Maruti
+735,Hyundai Elite i20 Asta 1.4 CRDI - 2016,PLATINUM,Chennai,"₹5,88,099","1,01,920 kms ", Diesel , 2nd Owner, 2016,Hyundai
+736,Maruti Suzuki Swift VXi 1.2 BS IV - 2014,GOLD,Jaipur,"₹4,90,000","44,000 kms ", Petrol,, 2014,Maruti
+737,Mahindra Scorpio 2.6 SLX - 2007,GOLD,Jaipur,"₹2,25,000","85,000 kms ", Diesel,, 2007,Mahindra
+738,Maruti Suzuki Vitara Brezza VDI OPT - 2017,GOLD,Jaipur,"₹7,75,000","64,000 kms ", Diesel,, 2017,Maruti
+739,Kia Sonet - 2021,GOLD,Jaipur,"₹10,50,000","13,000 kms ", Diesel,, 2021,Kia
+740,Honda Amaze 1.5 SMT I DTEC - 2015,GOLD,Jaipur,"₹4,25,000","76,000 kms ", Diesel,, 2015,Honda
+741,Maruti Suzuki Alto K10 VXi AMT - 2015,GOLD,Jaipur,"₹2,75,000","45,000 kms ", Petrol,, 2015,Maruti
+742,Tata Nexon XZ Plus Diesel Dual Tone - 2019,GOLD,Jaipur,"₹8,75,000","63,088 kms ", Diesel,, 2019,Tata
+743,Maruti Suzuki Alto 800 Lxi - 2013,GOLD,Chennai,"₹2,50,000","54,123 kms ", Petrol,, 2013,Maruti
+744,Hyundai i20 Active 1.2 S - 2015,PLATINUM,Pune,"₹5,67,399","35,140 kms ", Petrol , 2nd Owner, 2015,Hyundai
+745,Maruti Suzuki Ciaz - 2018,PLATINUM,Pune,"₹8,05,099","50,842 kms ", Diesel , 2nd Owner, 2018,Maruti
+746,Honda Amaze - 2015,PLATINUM,Pune,"₹4,92,199","43,412 kms ", Petrol , 1st Owner, 2015,Honda
+747,Honda Jazz - 2016,PLATINUM,Pune,"₹4,95,799","46,201 kms ", Petrol , 1st Owner, 2016,Honda
+748,Maruti Suzuki S Cross - 2017,PLATINUM,Bangalore,"₹11,13,599","63,626 kms ", Diesel , 2nd Owner, 2017,Maruti
+749,Maruti Suzuki Alto 800 Lxi - 2016,PLATINUM,Chennai,"₹2,99,999","18,251 kms ", Petrol , 1st Owner, 2016,Maruti
+750,Maruti Suzuki Baleno - 2016,PLATINUM,Chennai,"₹5,92,099","41,019 kms ", Petrol , 2nd Owner, 2016,Maruti
+751,Renault Kwid RXT - 2015,PLATINUM,Chennai,"₹3,22,299","46,463 kms ", Petrol , 1st Owner, 2015,Renault
+752,Renault Kwid - 2017,PLATINUM,Bangalore,"₹4,81,999","20,110 kms ", Petrol , 2nd Owner, 2017,Renault
+753,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2016,PLATINUM,Pune,"₹5,34,599","17,364 kms ", Petrol , 2nd Owner, 2016,Hyundai
+754,MG Motors Hector - 2020,PLATINUM,Bangalore,"₹16,81,899","6,760 kms ", Petrol , 2nd Owner, 2020,MG
+755,Maruti Suzuki Celerio Vxi - 2016,PLATINUM,Bangalore,"₹4,29,599","35,109 kms ", Petrol , 2nd Owner, 2016,Maruti
+756,Honda Amaze - 2018,PLATINUM,Chennai,"₹7,23,799","44,266 kms ", Petrol , 2nd Owner, 2018,Honda
+757,Volkswagen Polo - 2017,PLATINUM,Chennai,"₹5,63,299","39,156 kms ", Petrol , 2nd Owner, 2017,Volkswagen
+758,Maruti Suzuki Alto K10 Vxi - 2011,PLATINUM,Pune,"₹2,14,199","57,993 kms ", Petrol , 3rd Owner, 2011,Maruti
+759,Maruti Suzuki Alto K10 VXi - 2015,PLATINUM,Bangalore,"₹3,19,399","51,573 kms ", Petrol , 2nd Owner, 2015,Maruti
+760,Fiat Punto Emotion 1.2 - 2011,GOLD,Pune,"₹1,80,000","88,000 kms ", Petrol,, 2011,Fiat
+761,Hyundai i20 Sportz 1.2 - 2014,GOLD,Pune,"₹4,15,000","67,000 kms ", Petrol,, 2014,Hyundai
+762,Maruti Suzuki Swift VDi - 2011,GOLD,Pune,"₹3,50,000","73,000 kms ", Diesel,, 2011,Maruti
+763,Hyundai Elite i20 Magna 1.4 AT - 2015,GOLD,Kolkata,"₹4,30,000","39,000 kms ", Petrol,, 2015,Hyundai
+764,Mahindra XUV 500 W6 - 2012,GOLD,Thane,"₹4,50,000","87,500 kms ", Diesel,, 2012,Mahindra
+765,Honda Accord 2.4 MT - 2006,GOLD,Bhubaneswar,"₹3,25,000","86,000 kms ", Petrol,, 2006,Honda
+766,Hyundai Grand i10 1.2 ASTA O AT - 2017,GOLD,Bangalore,"₹5,65,000","19,900 kms ", Petrol,, 2017,Hyundai
+767,Nissan Terrano XV D THP Premium 110 PS - 2013,GOLD,Madurai,"₹8,80,000","22,000 kms ", Diesel,, 2013,Nissan
+768,Maruti Suzuki Vitara Brezza ZDi - 2016,PLATINUM,Bangalore,"₹8,10,399","78,329 kms ", Diesel , 2nd Owner, 2016,Maruti
+769,Maruti Suzuki Ertiga VDI SHVS - 2016,PLATINUM,Chennai,"₹7,88,999","61,977 kms ", Diesel , 1st Owner, 2016,Maruti
+770,Mahindra KUV100 K6 D 6 STR - 2016,PLATINUM,Bangalore,"₹5,08,799","58,640 kms ", Diesel , 1st Owner, 2016,Mahindra
+771,Renault Kwid - 2018,PLATINUM,Bangalore,"₹4,57,099","40,650 kms ", Petrol , 1st Owner, 2018,Renault
+772,Volkswagen Polo - 2019,PLATINUM,Bangalore,"₹6,12,899","19,121 kms ", Petrol , 2nd Owner, 2019,Volkswagen
+773,Ford Ecosport - 2016,PLATINUM,Chennai,"₹6,84,099","85,893 kms ", Diesel , 2nd Owner, 2016,Ford
+774,Renault Triber - 2019,PLATINUM,Chennai,"₹7,16,699","9,874 kms ", Petrol , 2nd Owner, 2019,Renault
+775,Hyundai Grand i10 - 2016,PLATINUM,Bangalore,"₹5,01,599","25,202 kms ", Petrol , 1st Owner, 2016,Hyundai
+776,Hyundai Grand i10 - 2016,PLATINUM,Chennai,"₹5,09,699","95,999 kms ", Petrol , 2nd Owner, 2016,Hyundai
+777,Maruti Suzuki Alto K10 Vxi - 2014,PLATINUM,Bangalore,"₹3,37,799","49,074 kms ", Petrol , 2nd Owner, 2014,Maruti
+778,Hyundai Verna 1.6 SX VTVT - 2017,PLATINUM,Pune,"₹8,52,399","52,439 kms ", Petrol , 2nd Owner, 2017,Hyundai
+779,Mahindra XUV 500 - 2020,PLATINUM,Bangalore,"₹17,84,699","10,813 kms ", Diesel , 1st Owner, 2020,Mahindra
+780,Hyundai Creta - 2016,PLATINUM,Chennai,"₹7,78,199","1,27,971 kms ", Petrol , 2nd Owner, 2016,Hyundai
+781,Maruti Suzuki Swift ZDI AMT - 2018,PLATINUM,Chennai,"₹7,05,099","1,14,108 kms ", Diesel , 2nd Owner, 2018,Maruti
+782,Hyundai Grand i10 - 2017,PLATINUM,Chennai,"₹5,57,599","52,030 kms ", Diesel , 2nd Owner, 2017,Hyundai
+783,Mahindra XUV 500 - 2018,PLATINUM,Pune,"₹15,18,099","44,721 kms ", Diesel , 2nd Owner, 2018,Mahindra
+784,Mahindra Marazzo M6 7 STR - 2018,GOLD,Madurai,"₹11,90,000","50,000 kms ", Diesel,, 2018,Mahindra
+785,Skoda Laura Ambition 2.0 TDI CR MT - 2011,GOLD,Madurai,"₹5,90,000","95,000 kms ", Diesel,, 2011,Skoda
+786,Tata Harrier XZ Dash Edition - 2020,GOLD,Madurai,"₹19,80,000","17,000 kms ", Diesel,, 2020,Tata
+787,Mahindra XUV 500 W10 1.99 - 2018,GOLD,Chennai,"₹13,50,000","52,500 kms ", Diesel,, 2018,Mahindra
+788,BMW 5 Series 523i Sedan - 2010,GOLD,NaviMumbai,"₹10,59,000","49,000 kms ", Petrol , 3rd Owner, 2010,BMW
+789,Maruti Suzuki Alto LXi - 2011,GOLD,Kolkata,"₹1,85,000","55,000 kms ", Petrol , 1st Owner, 2011,Maruti
+790,Mahindra Scorpio 2.6 SLX CRDe - 2014,GOLD,Chennai,"₹7,10,000","81,500 kms ", Diesel,, 2014,Mahindra
+791,Mercedes Benz E Class E250 CDI Launch Edition - 2013,GOLD,Kolkata,"₹19,48,888","10,000 kms ", Diesel , 1st Owner, 2013,Mercedes
+792,Tata Harrier - 2020,PLATINUM,Bangalore,"₹22,72,499","22,667 kms ", Diesel , 2nd Owner, 2020,Tata
+793,Honda City - 2014,PLATINUM,Bangalore,"₹6,26,199","68,519 kms ", Petrol , 1st Owner, 2014,Honda
+794,Tata Nano - 2015,PLATINUM,Bangalore,"₹2,36,099","64,011 kms ", Petrol , 1st Owner, 2015,Tata
+795,Maruti Suzuki Alto VXi - 2021,PLATINUM,Bangalore,"₹4,30,499","13,598 kms ", Petrol , 1st Owner, 2021,Maruti
+796,Maruti Suzuki Wagon R 1.0 Vxi - 2014,PLATINUM,Bangalore,"₹4,42,799","47,037 kms ", Petrol , 2nd Owner, 2014,Maruti
+797,Hyundai Creta - 2018,PLATINUM,Pune,"₹13,73,699","69,711 kms ", Petrol , 2nd Owner, 2018,Hyundai
+798,Hyundai Elite i20 Asta 1.2 - 2015,PLATINUM,Pune,"₹5,89,299","49,189 kms ", Petrol , 2nd Owner, 2015,Hyundai
+799,Maruti Suzuki Alto 800 Lxi - 2016,PLATINUM,Chennai,"₹2,98,199","18,368 kms ", Petrol , 1st Owner, 2016,Maruti
+800,Tata Harrier - 2020,PLATINUM,Pune,"₹15,08,799","16,874 kms ", Diesel , 2nd Owner, 2020,Tata
+801,Maruti Suzuki Eeco - 2019,PLATINUM,Bangalore,"₹4,73,699","24,484 kms ", Petrol , 2nd Owner, 2019,Maruti
+802,Maruti Suzuki Baleno - 2019,PLATINUM,Chennai,"₹6,56,299","20,688 kms ", Petrol , 2nd Owner, 2019,Maruti
+803,Maruti Suzuki Alto K10 Vxi - 2016,PLATINUM,Chennai,"₹3,45,799","24,065 kms ", Petrol , 2nd Owner, 2016,Maruti
+804,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2018,PLATINUM,Chennai,"₹5,84,599","22,609 kms ", Petrol , 2nd Owner, 2018,Hyundai
+805,Skoda Rapid - 2017,PLATINUM,Pune,"₹7,86,799","56,523 kms ", Diesel , 2nd Owner, 2017,Skoda
+806,Hyundai Elite i20 Sportz 1.2 - 2018,PLATINUM,Chennai,"₹6,24,799","48,031 kms ", Petrol , 2nd Owner, 2018,Hyundai
+807,Hyundai Grand i10 - 2016,PLATINUM,Chennai,"₹4,72,399","45,578 kms ", Petrol , 1st Owner, 2016,Hyundai
+808,Hyundai Fluidic Verna 1.6 CRDi SX - 2012,GOLD,Kolkata,"₹4,08,888","70,070 kms ", Diesel , 1st Owner, 2012,Hyundai
+809,Hyundai i10 Magna - 2015,GOLD,Kolkata,"₹2,88,888","28,000 kms ", Petrol , 1st Owner, 2015,Hyundai
+810,Chevrolet Sail 1.2 LS - 2013,GOLD,Kolkata,"₹1,98,888","30,030 kms ", Diesel , 1st Owner, 2013,Chevrolet
+811,Ford Endeavor 4X4 XLT AT - 2011,GOLD,Kolkata,"₹8,98,888","25,000 kms ", Diesel , 1st Owner, 2011,Ford
+812,BMW 3 Series 320d - 2013,GOLD,Kolkata,"₹11,48,888","8,000 kms ", Diesel , 1st Owner, 2013,BMW
+813,Chevrolet Spark - 2010,GOLD,Chennai,"₹79,000","53,000 kms ", Petrol,, 2010,Chevrolet
+814,Honda City - 2007,GOLD,Chennai,"₹97,000","68,000 kms ", Petrol,, 2007,Honda
+815,Hyundai Santro GLS - 2007,GOLD,Pune,"₹1,35,000","58,000 kms ", Petrol,, 2007,Hyundai
+816,Hyundai Elite i20 Asta 1.2 - 2016,PLATINUM,Bangalore,"₹6,87,199","28,648 kms ", Petrol , 1st Owner, 2016,Hyundai
+817,Hyundai i10 Magna 1.1 iRDE2 - 2015,PLATINUM,Bangalore,"₹3,87,099","59,819 kms ", Petrol , 2nd Owner, 2015,Hyundai
+818,Maruti Suzuki Baleno - 2018,PLATINUM,Chennai,"₹6,50,599","19,574 kms ", Petrol , 2nd Owner, 2018,Maruti
+819,Tata Hexa - 2019,PLATINUM,Chennai,"₹17,05,799","46,337 kms ", Diesel , 2nd Owner, 2019,Tata
+820,Volkswagen Polo - 2015,PLATINUM,Bangalore,"₹5,26,899","73,563 kms ", Petrol , 1st Owner, 2015,Volkswagen
+821,Honda Jazz - 2016,PLATINUM,Chennai,"₹6,12,799","51,428 kms ", Petrol , 2nd Owner, 2016,Honda
+822,Maruti Suzuki Alto 800 LXI Option - 2016,PLATINUM,Chennai,"₹2,69,099","95,754 kms ", Petrol , 2nd Owner, 2016,Maruti
+823,Tata Hexa - 2019,PLATINUM,Chennai,"₹19,52,199","34,533 kms ", Diesel , 2nd Owner, 2019,Tata
+824,Maruti Suzuki Baleno - 2016,PLATINUM,Chennai,"₹6,46,299","50,154 kms ", Petrol , 2nd Owner, 2016,Maruti
+825,Maruti Suzuki Celerio Vxi - 2016,PLATINUM,Bangalore,"₹4,25,899","23,492 kms ", Petrol , 2nd Owner, 2016,Maruti
+826,Maruti Suzuki Celerio ZXi AMT - 2017,PLATINUM,Bangalore,"₹4,96,399","37,739 kms ", Petrol , 2nd Owner, 2017,Maruti
+827,Maruti Suzuki Celerio VXi AMT - 2015,PLATINUM,Bangalore,"₹3,93,799","46,178 kms ", Petrol , 3rd Owner, 2015,Maruti
+828,Maruti Suzuki Baleno - 2017,PLATINUM,Chennai,"₹6,19,599","42,893 kms ", Petrol , 1st Owner, 2017,Maruti
+829,Maruti Suzuki Alto K10 - 2019,PLATINUM,Pune,"₹4,23,599","57,875 kms ", Petrol + CNG , 2nd Owner, 2019,Maruti
+830,Hyundai Venue - 2020,PLATINUM,Pune,"₹8,31,999","4,832 kms ", Petrol , 2nd Owner, 2020,Hyundai
+831,Renault Triber - 2019,PLATINUM,Chennai,"₹6,95,099","27,805 kms ", Petrol , 2nd Owner, 2019,Renault
+832,Hyundai Xcent S 1.1 CRDi - 2014,GOLD,Ahmedabad,"₹3,90,000","71,000 kms ", Diesel , 1st Owner, 2014,Hyundai
+833,Toyota Fortuner 3.0 4x4 MT - 2013,GOLD,Chennai,"₹13,50,000","1,40,000 kms ", Diesel,, 2013,Toyota
+834,Toyota Innova 2.5 V 7 STR - 2014,GOLD,Chennai,"₹13,50,000","70,000 kms ", Diesel,, 2014,Toyota
+835,Honda City ZX - 2008,GOLD,Chennai,"₹2,50,000","75,000 kms ", Petrol,, 2008,Honda
+836,Maruti Suzuki Alto LXi BS III - 2009,GOLD,Pune,"₹1,45,000","57,000 kms ", Petrol,, 2009,Maruti
+837,Maruti Suzuki Vitara Brezza ZDi - 2018,GOLD,Pune,"₹9,80,000","57,000 kms ", Diesel,, 2018,Maruti
+838,Hyundai Creta 1.4 Base - 2018,GOLD,Pune,"₹9,80,000","91,000 kms ", Diesel,, 2018,Hyundai
+839,Hyundai i10 Sportz - 2009,GOLD,Nagpur,"₹1,95,000","86,000 kms ", Petrol,, 2009,Hyundai
+840,Maruti Suzuki Alto K10 Vxi - 2013,PLATINUM,Chennai,"₹2,61,499","68,844 kms ", Petrol , 2nd Owner, 2013,Maruti
+841,Honda Jazz - 2017,PLATINUM,Chennai,"₹6,49,699","37,070 kms ", Petrol , 1st Owner, 2017,Honda
+842,Hyundai Grand i10 Magna 1.2 Kappa VTVT - 2017,PLATINUM,Pune,"₹4,94,099","20,393 kms ", Petrol , 2nd Owner, 2017,Hyundai
+843,Maruti Suzuki Alto 800 Lxi - 2017,PLATINUM,Pune,"₹3,13,399","22,244 kms ", Petrol , 2nd Owner, 2017,Maruti
+844,Toyota Fortuner - 2016,PLATINUM,Chennai,"₹21,22,099","47,024 kms ", Diesel , 1st Owner, 2016,Toyota
+845,Hyundai Elite i20 - 2015,PLATINUM,Chennai,"₹5,52,799","64,707 kms ", Petrol , 2nd Owner, 2015,Hyundai
+846,Ford Ecosport - 2013,PLATINUM,Pune,"₹4,90,099","52,149 kms ", Petrol , 2nd Owner, 2013,Ford
+847,Hyundai Grand i10 - 2017,PLATINUM,Pune,"₹6,38,599","11,203 kms ", Petrol , 2nd Owner, 2017,Hyundai
+848,Maruti Suzuki Alto K10 Vxi - 2015,PLATINUM,Pune,"₹3,74,799","18,071 kms ", Petrol , 2nd Owner, 2015,Maruti
+849,Hyundai Elite i20 Sportz 1.2 - 2016,PLATINUM,Chennai,"₹5,17,499","81,412 kms ", Petrol , 2nd Owner, 2016,Hyundai
+850,Maruti Suzuki Swift VXi Opt - 2016,PLATINUM,Chennai,"₹5,53,899","41,912 kms ", Petrol , 2nd Owner, 2016,Maruti
+851,Maruti Suzuki Swift VXi Opt - 2016,PLATINUM,Chennai,"₹5,79,199","32,516 kms ", Petrol , 2nd Owner, 2016,Maruti
+852,Hyundai Grand i10 Asta 1.2 Kappa VTVT - 2015,PLATINUM,Bangalore,"₹5,31,999","41,552 kms ", Petrol , 2nd Owner, 2015,Hyundai
+853,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2018,PLATINUM,Chennai,"₹4,96,199","21,790 kms ", Petrol , 1st Owner, 2018,Hyundai
+854,Maruti Suzuki Baleno - 2019,PLATINUM,Chennai,"₹6,59,099","34,010 kms ", Petrol , 2nd Owner, 2019,Maruti
+855,Hyundai Elite i20 Magna 1.2 - 2016,PLATINUM,Chennai,"₹5,34,799","50,050 kms ", Petrol , 2nd Owner, 2016,Hyundai
+856,Maruti Suzuki Ertiga VXI SMART HYBRID - 2019,GOLD,Chennai,"₹9,50,000","2,000 kms ", Petrol,, 2019,Maruti
+857,Maruti Suzuki Swift VXI BSIII with ABS - 2010,GOLD,Nagpur,"₹2,65,000","71,000 kms ", Petrol,, 2010,Maruti
+858,Hyundai i20 Asta 1.2 - 2015,GOLD,Chennai,"₹6,50,000","52,000 kms ", Diesel,, 2015,Hyundai
+859,Maruti Suzuki Swift VXi 1.2 ABS BS IV - 2018,GOLD,Chennai,"₹6,50,000","35,000 kms ", Petrol,, 2018,Maruti
+860,Renault Kwid RXT - 2016,GOLD,Chennai,"₹2,90,000","41,000 kms ", Petrol,, 2016,Renault
+861,Tata Indigo LX TDI BS III - 2003,GOLD,Bangalore,"₹74,999","1,25,000 kms ", Diesel,, 2003,Tata
+862,Maruti Suzuki Alto LXi BS III - 2006,GOLD,Bangalore,"₹1,55,000","85,000 kms ", Petrol,, 2006,Maruti
+863,Chevrolet Optra - 2005,GOLD,Chennai,"₹69,000","85,000 kms ", Petrol,, 2005,Chevrolet
+864,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2018,PLATINUM,Chennai,"₹4,96,199","21,790 kms ", Petrol , 1st Owner, 2018,Hyundai
+865,Maruti Suzuki Wagon R 1.0 Vxi - 2011,PLATINUM,Chennai,"₹2,98,599","75,822 kms ", Petrol , 1st Owner, 2011,Maruti
+866,Tata Tiago - 2016,PLATINUM,Bangalore,"₹4,90,199","28,589 kms ", Petrol , 1st Owner, 2016,Tata
+867,Renault Kwid - 2017,PLATINUM,Bangalore,"₹4,22,999","15,883 kms ", Petrol , 2nd Owner, 2017,Renault
+868,Hyundai Elite i20 ASTA 1.2 O  - 2016,PLATINUM,Chennai,"₹6,56,399","63,648 kms ", Petrol , 1st Owner, 2016,Hyundai
+869,Maruti Suzuki Vitara Brezza - 2016,PLATINUM,Pune,"₹6,88,599","1,56,931 kms ", Diesel , 2nd Owner, 2016,Maruti
+870,Maruti Suzuki XL6 - 2019,PLATINUM,Pune,"₹11,13,299","13,829 kms ", Petrol , 2nd Owner, 2019,Maruti
+871,Maruti Suzuki Baleno - 2016,PLATINUM,Pune,"₹6,08,399","28,361 kms ", Petrol , 1st Owner, 2016,Maruti
+872,Hyundai Grand i10 - 2017,PLATINUM,Chennai,"₹5,87,399","77,960 kms ", Petrol , 1st Owner, 2017,Hyundai
+873,Maruti Suzuki Celerio Vxi - 2015,PLATINUM,Bangalore,"₹4,49,699","33,473 kms ", Petrol , 2nd Owner, 2015,Maruti
+874,Maruti Suzuki Eeco - 2019,PLATINUM,Chennai,"₹4,64,899","29,052 kms ", Petrol , 2nd Owner, 2019,Maruti
+875,Maruti Suzuki Alto 800 Lxi - 2017,PLATINUM,Chennai,"₹3,02,699","68,041 kms ", Petrol , 2nd Owner, 2017,Maruti
+876,Maruti Suzuki Baleno - 2015,PLATINUM,Bangalore,"₹5,83,299","61,361 kms ", Petrol , 2nd Owner, 2015,Maruti
+877,Honda BRV - 2018,PLATINUM,Bangalore,"₹8,77,999","32,218 kms ", Petrol , 2nd Owner, 2018,Honda
+878,Hyundai i10 Magna 1.1 iRDE2 - 2016,PLATINUM,Chennai,"₹3,98,499","28,579 kms ", Petrol , 1st Owner, 2016,Hyundai
+879,Hyundai Grand i10 - 2017,PLATINUM,Chennai,"₹5,29,399","51,343 kms ", Petrol , 2nd Owner, 2017,Hyundai
+880,Chevrolet Optra - 2005,GOLD,Chennai,"₹69,000","85,000 kms ", Petrol,, 2005,Chevrolet
+881,Honda City 1.5 V MT Sunroof - 2016,GOLD,Hyderabad,"₹7,00,000","86,868 kms ", Petrol,, 2016,Honda
+882,Hyundai Accent - 2002,GOLD,Chennai,"₹79,000","85,000 kms ", Petrol,, 2002,Hyundai
+883,Maruti Suzuki Swift VXi 1.2 ABS BS IV - 2012,GOLD,Chennai,"₹3,90,000","77,000 kms ", Petrol,, 2012,Maruti
+884,Honda City V CVT Petrol - 2017,GOLD,Chennai,"₹9,50,000","35,500 kms ", Petrol , 1st Owner, 2017,Honda
+885,Toyota Glanza G - 2019,GOLD,Chennai,"₹7,25,000","19,942 kms ", Petrol,, 2019,Toyota
+886,Hyundai i20 Sportz Petrol - 2012,GOLD,Bangalore,"₹4,39,000","16,000 kms ", Petrol , 1st Owner, 2012,Hyundai
+887,Honda City ZX CVT Petrol - 2018,GOLD,,"₹10,69,999","54,000 kms ", CNG , 1st Owner, 2018,Honda
+888,Renault Kwid RxL - 2019,PLATINUM,Bangalore,"₹4,22,299","17,357 kms ", Petrol , 2nd Owner, 2019,Renault
+889,Ford Figo Aspire - 2017,PLATINUM,Bangalore,"₹5,89,999","14,517 kms ", Petrol , 2nd Owner, 2017,Ford
+890,Maruti Suzuki Baleno - 2017,PLATINUM,Chennai,"₹6,61,299","13,517 kms ", Petrol , 1st Owner, 2017,Maruti
+891,Maruti Suzuki Wagon R 1.0 VXi Opt - 2017,PLATINUM,Chennai,"₹4,29,099","42,302 kms ", Petrol , 1st Owner, 2017,Maruti
+892,Maruti Suzuki Celerio Vxi - 2015,PLATINUM,Chennai,"₹3,89,399","65,783 kms ", Petrol , 2nd Owner, 2015,Maruti
+893,Renault Lodgy - 2015,PLATINUM,Chennai,"₹6,29,799","1,38,716 kms ", Diesel , 2nd Owner, 2015,Renault
+894,Hyundai i10 Sportz 1.2 AT Kappa2 - 2013,PLATINUM,Bangalore,"₹3,97,299","43,339 kms ", Petrol , 1st Owner, 2013,Hyundai
+895,Maruti Suzuki Ignis - 2018,PLATINUM,Pune,"₹5,46,399","19,526 kms ", Petrol , 2nd Owner, 2018,Maruti
+896,Maruti Suzuki Alto K10 VXi AMT - 2016,PLATINUM,Bangalore,"₹4,12,999","25,673 kms ", Petrol , 1st Owner, 2016,Maruti
+897,Maruti Suzuki Celerio - 2016,PLATINUM,Chennai,"₹4,02,799","93,304 kms ", Petrol , 2nd Owner, 2016,Maruti
+898,Hyundai Creta - 2019,PLATINUM,Chennai,"₹9,15,699","94,409 kms ", Diesel , 2nd Owner, 2019,Hyundai
+899,Maruti Suzuki Celerio VXi AMT - 2014,PLATINUM,Chennai,"₹3,61,499","66,799 kms ", Petrol,, 2014,Maruti
+900,Hyundai EON - 2016,PLATINUM,Chennai,"₹3,57,899","27,339 kms ", Petrol , 2nd Owner, 2016,Hyundai
+901,Renault Kwid - 2018,PLATINUM,Pune,"₹4,75,399","9,095 kms ", Petrol , 2nd Owner, 2018,Renault
+902,Maruti Suzuki Eeco - 2019,PLATINUM,Bangalore,"₹4,85,299","21,934 kms ", Petrol , 1st Owner, 2019,Maruti
+903,Maruti Suzuki Baleno - 2016,PLATINUM,Bangalore,"₹6,43,599","51,706 kms ", Petrol , 2nd Owner, 2016,Maruti
+904,Honda City ZX CVT Petrol - 2018,GOLD,Dwarka,"₹10,69,999","54,000 kms ", CNG , 1st Owner, 2018,Honda
+905,Honda City ZX CVT Petrol - 2018,GOLD,GirSomnath,"₹10,69,999","54,000 kms ", CNG , 1st Owner, 2018,Honda
+906,Honda City ZX CVT Petrol - 2018,GOLD,Anand,"₹10,69,999","54,000 kms ", CNG , 1st Owner, 2018,Honda
+907,Hyundai i20 Asta 1.2 - 2009,GOLD,Chennai,"₹2,55,000","90,000 kms ", Petrol,, 2009,Hyundai
+908,Tata Hexa - 2019,GOLD,Muzaffarnagar,"₹15,00,000","85,000 kms ", Diesel,, 2019,Tata
+909,Mahindra XUV 500 W8 - 2014,GOLD,Jaipur,"₹6,50,000","89,000 kms ", Diesel,, 2014,Mahindra
+910,Hyundai Santro Xing GL Plus - 2010,GOLD,Jaipur,"₹1,75,000","45,000 kms ", Petrol,, 2010,Hyundai
+911,Honda WRV VX MT Petrol - 2018,GOLD,Kolkata,"₹7,35,000","34,000 kms ", Petrol , 1st Owner, 2018,Honda
+912,Maruti Suzuki Wagon R 1.0 VXi AMT - 2018,PLATINUM,Pune,"₹4,38,199","31,281 kms ", Petrol , 1st Owner, 2018,Maruti
+913,Honda City - 2019,PLATINUM,Bangalore,"₹9,24,599","46,312 kms ", Petrol , 2nd Owner, 2019,Honda
+914,Hyundai Elite i20 - 2018,PLATINUM,Chennai,"₹6,64,099","32,989 kms ", Petrol , 1st Owner, 2018,Hyundai
+915,Renault Kwid - 2018,PLATINUM,Bangalore,"₹4,62,299","50,599 kms ", Petrol , 2nd Owner, 2018,Renault
+916,Honda Brio - 2016,PLATINUM,Bangalore,"₹4,38,499","26,127 kms ", Petrol , 2nd Owner, 2016,Honda
+917,Maruti Suzuki Vitara Brezza - 2016,PLATINUM,Bangalore,"₹6,80,999","58,118 kms ", Diesel , 2nd Owner, 2016,Maruti
+918,Maruti Suzuki Alto K10 Vxi O AMT - 2019,PLATINUM,Chennai,"₹3,93,199","23,534 kms ", Petrol , 2nd Owner, 2019,Maruti
+919,Maruti Suzuki Baleno - 2018,PLATINUM,Chennai,"₹6,46,799","58,978 kms ", Petrol , 2nd Owner, 2018,Maruti
+920,Maruti Suzuki Wagon R 1.0 Vxi - 2014,PLATINUM,Pune,"₹3,49,999","33,103 kms ", Petrol , 1st Owner, 2014,Maruti
+921,Maruti Suzuki Eeco - 2018,PLATINUM,Bangalore,"₹4,19,599","14,600 kms ", Petrol , 2nd Owner, 2018,Maruti
+922,Maruti Suzuki Baleno - 2016,PLATINUM,Pune,"₹5,85,099","26,049 kms ", Petrol , 2nd Owner, 2016,Maruti
+923,Ford Freestyle - 2018,PLATINUM,Bangalore,"₹6,27,799","33,895 kms ", Diesel , 1st Owner, 2018,Ford
+924,Volkswagen Polo - 2017,PLATINUM,Bangalore,"₹5,20,799","32,893 kms ", Petrol , 2nd Owner, 2017,Volkswagen
+925,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2013,PLATINUM,Chennai,"₹4,10,199","61,717 kms ", Petrol , 3rd Owner, 2013,Maruti
+926,Maruti Suzuki Wagon R 1.0 Vxi - 2017,PLATINUM,Chennai,"₹4,04,399","82,334 kms ", Petrol , 2nd Owner, 2017,Maruti
+927,Hyundai Verna - 2017,PLATINUM,Chennai,"₹6,82,799","87,381 kms ", Petrol , 2nd Owner, 2017,Hyundai
+928,Land Rover Range Rover Evoque HSE Dynamic - 2017,GOLD,Chennai,"₹44,90,000","51,000 kms ", Diesel,, 2017,Land
+929,Honda City ZX GXi - 2008,GOLD,Delhi,"₹1,50,000","85,000 kms ", Petrol,, 2008,Honda
+930,Porsche Cayenne Select Variant - 2011,GOLD,Mumbai,"₹33,00,000","38,000 kms ", Electric , 1st Owner, 2011,Porsche
+931,Toyota Innova 2.5 Z Diesel 7 Seater - 2013,GOLD,Bangalore,"₹11,75,000","2,10,000 kms ", Diesel , 1st Owner, 2013,Toyota
+932,Maruti Suzuki Ciaz ZDi Plus SHVS - 2019,GOLD,Bangalore,"₹9,75,000","24,200 kms ", Petrol,, 2019,Maruti
+933,MG Motors Hector Super 2.0 Diesel - 2021,GOLD,Trichy,"₹20,00,000","28,000 kms ", Diesel,, 2021,MG
+934,Mahindra Bolero SLE BS IV - 2015,GOLD,Kolkata,Ask For Price,"62,000 kms ", Petrol,, 2015,Mahindra
+935,Mahindra Bolero ZLX BS IV - 2012,GOLD,Trichy,"₹5,35,000","1,35,000 kms ", Diesel,, 2012,Mahindra
+936,Ford Ecosport - 2019,PLATINUM,Pune,"₹10,45,799","34,642 kms ", Petrol , 2nd Owner, 2019,Ford
+937,Maruti Suzuki Swift Dzire VXi 1.2 BS IV - 2013,PLATINUM,Chennai,"₹4,10,199","1,54,104 kms ", Petrol , 2nd Owner, 2013,Maruti
+938,Maruti Suzuki Alto K10 Vxi - 2016,PLATINUM,Chennai,"₹2,97,299","61,826 kms ", Petrol , 2nd Owner, 2016,Maruti
+939,Tata Nexon - 2018,PLATINUM,Pune,"₹9,80,199","44,751 kms ", Diesel , 2nd Owner, 2018,Tata
+940,Honda Jazz - 2019,PLATINUM,Chennai,"₹7,94,299","5,183 kms ", Petrol , 2nd Owner, 2019,Honda
+941,Maruti Suzuki Swift Dzire Vdi BS IV - 2012,PLATINUM,Pune,"₹4,11,899","1,36,082 kms ", Diesel , 2nd Owner, 2012,Maruti
+942,Maruti Suzuki Celerio Vxi O AMT - 2019,PLATINUM,Chennai,"₹5,57,399","5,817 kms ", Petrol , 1st Owner, 2019,Maruti
+943,Hyundai Creta - 2015,PLATINUM,Pune,"₹8,96,099","99,138 kms ", Diesel , 2nd Owner, 2015,Hyundai
+944,Honda Jazz - 2016,PLATINUM,Pune,"₹6,37,699","27,936 kms ", Petrol , 2nd Owner, 2016,Honda
+945,Maruti Suzuki Alto 800 Lxi - 2014,PLATINUM,Chennai,"₹2,54,499","39,845 kms ", Petrol , 3rd Owner, 2014,Maruti
+946,Maruti Suzuki Eeco - 2019,PLATINUM,Chennai,"₹4,57,699","15,615 kms ", Petrol , 2nd Owner, 2019,Maruti
+947,Honda Brio - 2012,PLATINUM,Chennai,"₹3,61,599","53,158 kms ", Petrol , 2nd Owner, 2012,Honda
+948,Maruti Suzuki Baleno - 2019,PLATINUM,Pune,"₹6,75,799","16,002 kms ", Petrol , 2nd Owner, 2019,Maruti
+949,Maruti Suzuki Wagon R 1.0 Vxi - 2015,PLATINUM,Pune,"₹3,89,499","31,133 kms ", Petrol , 1st Owner, 2015,Maruti
+950,Maruti Suzuki Baleno - 2016,PLATINUM,Bangalore,"₹6,25,599","20,172 kms ", Petrol , 2nd Owner, 2016,Maruti
+951,Volkswagen Polo - 2013,PLATINUM,Bangalore,"₹6,86,999","69,653 kms ", Petrol , 1st Owner, 2013,Volkswagen
+952,Maruti Suzuki Celerio ZXi AMT - 2015,GOLD,Trichy,"₹4,25,000","75,000 kms ", Petrol,, 2015,Maruti
+953,Renault Pulse RxL ABS Diesel - 2012,GOLD,Trichy,"₹3,50,000","1,32,000 kms ", Diesel,, 2012,Renault
+954,Skoda Rapid 1.5 TDI CR Ambition with Alloy Wheels - 2014,GOLD,Trichy,"₹5,60,000","84,000 kms ", Diesel,, 2014,Skoda
+955,Maruti Suzuki SX4 VXI BS IV - 2007,GOLD,Trichy,"₹2,50,000","1,47,000 kms ", Petrol,, 2007,Maruti
+956,Hyundai Santro GLS - 2008,GOLD,Uttarpara,"₹90,000","61,000 kms ", Petrol,, 2008,Hyundai
+957,Hyundai i10 Era - 2012,GOLD,Delhi,"₹2,00,000","56,000 kms ", Petrol,, 2012,Hyundai
+958,Mahindra KUV100 K4 D 5 STR - 2018,GOLD,Chennai,"₹3,25,000","1,08,000 kms ", Diesel,, 2018,Mahindra
+959,Hyundai i20 Era 1.2 - 2018,GOLD,Chennai,"₹6,20,000","55,000 kms ", Diesel,, 2018,Hyundai
+960,Volkswagen Ameo Comfortline 1.2L - 2017,PLATINUM,Chennai,"₹5,19,699","26,023 kms ", Petrol , 1st Owner, 2017,Volkswagen
+961,Maruti Suzuki Alto 800 Lxi - 2018,PLATINUM,Chennai,"₹3,24,599","19,805 kms ", Petrol , 2nd Owner, 2018,Maruti
+962,Maruti Suzuki Alto K10 Vxi - 2017,PLATINUM,Chennai,"₹3,40,199","41,365 kms ", Petrol , 2nd Owner, 2017,Maruti
+963,Ford Ecosport - 2017,PLATINUM,Chennai,"₹6,93,999","90,001 kms ", Diesel , 1st Owner, 2017,Ford
+964,Hyundai EON Era Plus - 2016,PLATINUM,Chennai,"₹3,10,999","45,285 kms ", Petrol , 2nd Owner, 2016,Hyundai
+965,Maruti Suzuki Ciaz ZXI - 2016,PLATINUM,Bangalore,"₹7,22,199","42,441 kms ", Petrol , 2nd Owner, 2016,Maruti
+966,Maruti Suzuki Celerio - 2016,PLATINUM,Bangalore,"₹4,85,099","24,342 kms ", Petrol , 3rd Owner, 2016,Maruti
+967,Maruti Suzuki Dzire Vxi - 2017,PLATINUM,Chennai,"₹6,14,999","14,308 kms ", Petrol , 2nd Owner, 2017,Maruti
+968,Maruti Suzuki Vitara Brezza - 2018,PLATINUM,Pune,"₹10,61,399","32,456 kms ", Diesel , 2nd Owner, 2018,Maruti
+969,Maruti Suzuki S Cross - 2018,PLATINUM,Pune,"₹8,79,699","58,448 kms ", Diesel , 1st Owner, 2018,Maruti
+970,Maruti Suzuki Ertiga VDi SHVS - 2016,PLATINUM,Chennai,"₹7,55,199","86,576 kms ", Diesel , 2nd Owner, 2016,Maruti
+971,Ford Ecosport - 2018,PLATINUM,Bangalore,"₹8,16,399","50,421 kms ", Petrol , 2nd Owner, 2018,Ford
+972,Maruti Suzuki Eeco - 2017,PLATINUM,Chennai,"₹4,14,299","26,035 kms ", Petrol , 2nd Owner, 2017,Maruti
+973,Tata Tiago - 2018,PLATINUM,Chennai,"₹4,76,299","23,499 kms ", Petrol , 2nd Owner, 2018,Tata
+974,Maruti Suzuki Baleno - 2016,PLATINUM,Chennai,"₹5,72,599","25,636 kms ", Petrol , 2nd Owner, 2016,Maruti
+975,Kia Seltos - 2019,PLATINUM,Bangalore,"₹16,44,799","15,023 kms ", Petrol , 2nd Owner, 2019,Kia
+976,Mahindra Jeep CL550 MDI - 2020,GOLD,Kochi,"₹4,40,000",250 kms , Diesel,, 2020,Mahindra
+977,Volkswagen Vento Highline Petrol AT - 2015,GOLD,Pune,"₹5,75,000","66,000 kms ", Petrol,, 2015,Volkswagen
+978,Toyota Innova 2.5 GX 7 STR BS IV - 2015,GOLD,Bangalore,"₹8,80,000","85,000 kms ", Diesel,, 2015,Toyota
+979,Kia Carnival - 2020,GOLD,Chennai,"₹15,00,000","50,000 kms ", Diesel , 1st Owner, 2020,Kia
+980,Hyundai Creta - 2021,GOLD,Chennai,"₹10,00,000","12,000 kms ", Petrol , 1st Owner, 2021,Hyundai
+981,Chevrolet Beat - 2011,GOLD,Chennai,"₹86,000","56,000 kms ", Petrol,, 2011,Chevrolet
+982,Maruti Suzuki Wagon R - 2010,GOLD,Chennai,"₹89,000","53,000 kms ", Petrol,, 2010,Maruti
+983,Tata Nano CNG emax LX - 2014,GOLD,Mumbai,"₹90,000","28,000 kms ", Petrol,, 2014,Tata
+984,Maruti Suzuki Alto K10 Vxi - 2015,PLATINUM,Bangalore,"₹3,52,199","22,584 kms ", Petrol , 1st Owner, 2015,Maruti
+985,Maruti Suzuki Baleno - 2017,PLATINUM,Bangalore,"₹5,66,899","22,394 kms ", Petrol , 2nd Owner, 2017,Maruti
+986,Maruti Suzuki Dzire VDI AMT - 2017,PLATINUM,Chennai,"₹6,50,699","93,563 kms ", Diesel , 2nd Owner, 2017,Maruti
+987,Maruti Suzuki Eeco - 2017,PLATINUM,Chennai,"₹4,13,399","10,537 kms ", Petrol , 2nd Owner, 2017,Maruti
+988,Ford Ecosport - 2016,PLATINUM,Chennai,"₹6,45,799","81,515 kms ", Diesel , 1st Owner, 2016,Ford
+989,Jeep Compass - 2017,PLATINUM,Chennai,"₹15,51,499","24,676 kms ", Diesel , 2nd Owner, 2017,Jeep
+990,Maruti Suzuki Alto 800 Lxi - 2017,PLATINUM,Pune,"₹3,33,699","11,917 kms ", Petrol , 2nd Owner, 2017,Maruti
+991,Maruti Suzuki Ertiga VDi SHVS - 2016,PLATINUM,Pune,"₹8,11,799","69,654 kms ", Diesel , 2nd Owner, 2016,Maruti
+992,Maruti Suzuki Alto K10 Vxi O AMT - 2017,PLATINUM,Pune,"₹4,06,899","16,226 kms ", Petrol , 2nd Owner, 2017,Maruti
+993,Ford Ecosport - 2018,PLATINUM,Pune,"₹7,27,299","8,925 kms ", Petrol , 2nd Owner, 2018,Ford
+994,Honda Jazz - 2016,PLATINUM,Bangalore,"₹6,57,399","27,819 kms ", Petrol , 2nd Owner, 2016,Honda
+995,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2020,PLATINUM,Bangalore,"₹6,37,599","26,543 kms ", Petrol , 2nd Owner, 2020,Hyundai
+996,Maruti Suzuki Dzire Vxi - 2017,PLATINUM,Bangalore,"₹6,23,799","90,088 kms ", Petrol , 2nd Owner, 2017,Maruti
+997,Maruti Suzuki Eeco - 2018,PLATINUM,Chennai,"₹4,22,899","34,258 kms ", Petrol , 2nd Owner, 2018,Maruti
+998,Hyundai i20 Active 1.2 S - 2015,PLATINUM,Chennai,"₹5,76,099","1,01,744 kms ", Petrol , 2nd Owner, 2015,Hyundai
+999,Jeep Compass - 2019,PLATINUM,Pune,"₹19,87,699","19,830 kms ", Petrol , 2nd Owner, 2019,Jeep
+1000,Ford Ikon - 2007,GOLD,Chennai,"₹39,000","73,000 kms ", Petrol,, 2007,Ford
+1001,Hyundai Grand i10 Sportz U2 1.2 CRDi - 2019,GOLD,Dhanbad,"₹4,75,000","38,000 kms ", Diesel,, 2019,Hyundai
+1002,Mahindra XUV 500 W6 - 2012,GOLD,NaviMumbai,"₹4,50,000","87,500 kms ", Diesel,, 2012,Mahindra
+1003,Maruti Suzuki Ertiga VDi - 2014,GOLD,Nagpur,"₹6,50,000","91,000 kms ", Diesel,, 2014,Maruti
+1004,Maruti Suzuki Ritz VDi - 2012,GOLD,Nagpur,"₹3,26,000","76,000 kms ", Diesel,, 2012,Maruti
+1005,Tata Indica Vista Aqua Quadrajet BS IV - 2011,GOLD,Nagpur,"₹1,70,000","80,000 kms ", Diesel,, 2011,Tata
+1006,Maruti Suzuki Eeco 5 STR WITH HTR CNG - 2013,GOLD,Delhi,"₹2,50,000","70,000 kms ", CNG,, 2013,Maruti
+1007,Maruti Suzuki Alto Std BS IV - 2007,GOLD,Bangalore,"₹88,000","85,000 kms ", Petrol,, 2007,Maruti
+1008,MG Motors Hector - 2019,PLATINUM,Pune,"₹16,52,199","13,636 kms ", Petrol , 1st Owner, 2019,MG
+1009,Hyundai Venue - 2019,PLATINUM,Bangalore,"₹12,17,499","21,393 kms ", Petrol , 2nd Owner, 2019,Hyundai
+1010,Hyundai Creta - 2017,PLATINUM,Pune,"₹11,98,299","76,915 kms ", Diesel , 2nd Owner, 2017,Hyundai
+1011,Hyundai Grand i10 Sportz 1.2 Kappa VTVT - 2018,PLATINUM,Chennai,"₹5,90,799","16,300 kms ", Petrol , 2nd Owner, 2018,Hyundai
+1012,Hyundai Elite i20 - 2019,PLATINUM,Pune,"₹8,44,999","40,106 kms ", Diesel , 2nd Owner, 2019,Hyundai
+1013,Renault Kwid RXT - 2015,PLATINUM,Bangalore,"₹3,28,499","66,461 kms ", Petrol , 1st Owner, 2015,Renault
+1014,Hyundai Creta - 2016,PLATINUM,Pune,"₹7,69,599","48,182 kms ", Petrol , 2nd Owner, 2016,Hyundai
+1015,Hyundai Elite i20 - 2017,PLATINUM,Bangalore,"₹6,54,299","41,816 kms ", Petrol , 1st Owner, 2017,Hyundai
+1016,Hyundai i20 - 2012,PLATINUM,Chennai,"₹3,95,699","73,841 kms ", Petrol , 2nd Owner, 2012,Hyundai
+1017,Renault Kwid RxL - 2016,PLATINUM,Chennai,"₹2,94,799","19,908 kms ", Petrol , 3rd Owner, 2016,Renault
+1018,Hyundai Elite i20 Era 1.2 - 2018,PLATINUM,Chennai,"₹5,34,499","26,226 kms ", Petrol , 1st Owner, 2018,Hyundai
+1019,Maruti Suzuki Baleno - 2016,PLATINUM,Chennai,"₹6,81,399","43,287 kms ", Petrol , 2nd Owner, 2016,Maruti
+1020,Datsun Redi GO - 2018,PLATINUM,Bangalore,"₹4,15,699","26,527 kms ", Petrol , 2nd Owner, 2018,Datsun
+1021,Maruti Suzuki Alto 800 Vxi - 2017,PLATINUM,Bangalore,"₹3,00,199","37,801 kms ", Petrol , 3rd Owner, 2017,Maruti
+1022,Maruti Suzuki Vitara Brezza - 2017,PLATINUM,Chennai,"₹8,56,699","54,044 kms ", Diesel , 2nd Owner, 2017,Maruti
+1023,Ford Figo Aspire - 2017,PLATINUM,Pune,"₹4,81,399","29,632 kms ", Petrol , 2nd Owner, 2017,Ford
+1024,Mahindra Xylo D2 BS IV - 2009,GOLD,Trichy,"₹3,75,000","1,15,000 kms ", Diesel,, 2009,Mahindra
+1025,Maruti Suzuki Eeco 5 STR - 2020,GOLD,Trichy,"₹5,25,000","13,000 kms ", Petrol,, 2020,Maruti
+1026,Maruti Suzuki Swift VDi ABS - 2018,GOLD,Delhi,"₹5,50,000","42,000 kms ", Diesel,, 2018,Maruti
+1027,Hyundai i10 Magna 1.2 - 2014,GOLD,Bangalore,"₹2,29,000","65,000 kms ", Petrol , 1st Owner, 2014,Hyundai
+1028,Maruti Suzuki Alto K10 LXi CNG - 2014,GOLD,Bangalore,"₹2,75,000","60,000 kms ", Petrol,, 2014,Maruti
+1029,Jeep Compass Limited 2.0 Diesel - 2017,GOLD,Mahasamund,"₹17,50,000","31,000 kms ", Diesel , 1st Owner, 2017,Jeep
+1030,Jeep Compass Limited 2.0 Diesel - 2017,GOLD,Bilaspur,"₹17,50,000","31,000 kms ", Diesel , 1st Owner, 2017,Jeep
+1031,Jeep Compass Limited 2.0 Diesel - 2017,GOLD,Jagdalpur,"₹17,50,000","31,000 kms ", Diesel , 1st Owner, 2017,Jeep
